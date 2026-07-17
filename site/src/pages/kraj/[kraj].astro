@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import stanice from '../../data/stanice.json';
+
+export function getStaticPaths() {
+  const mapa = {};
+  for (const s of stanice) {
+    (mapa[s.krajSlug] ||= { slug: s.krajSlug, kraj: s.kraj, list: [] }).list.push(s);
+  }
+  return Object.values(mapa).map(k => ({ params: { kraj: k.slug }, props: { k } }));
+}
+const { k } = Astro.props;
+const okresy = {};
+for (const s of k.list) (okresy[s.okresSlug] ||= { slug: s.okresSlug, okres: s.okres, n: 0 }).n++;
+const title = `STK ${k.kraj}: ${k.list.length} stanic technické kontroly podle okresů`;
+const desc = `Všech ${k.list.length} stanic technické kontroly v kraji ${k.kraj} — po okresech, s telefonem a adresou z oficiálního seznamu Ministerstva dopravy.`;
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › {k.kraj}</div>
+  <p class="eyebrow">{k.list.length} stanic · {Object.keys(okresy).length} okresů</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">Stanice technické kontroly — {k.kraj}</h1>
+  <p class="lede">Kompletní přehled autorizovaných STK v kraji, rozdělený po okresech. U každé stanice najdete telefon, e-mail a adresu s mapou.</p>
+  <div class="grid">
+    {Object.values(okresy).sort((a,b) => a.okres.localeCompare(b.okres, 'cs')).map(ok => <a class="tarjeta" href={`/okres/${ok.slug}/`} style="display:block"><h3><i class="fa-solid fa-map"></i>okres {ok.okres}</h3><p class="meta">{ok.n} {ok.n === 1 ? 'stanice' : ok.n < 5 ? 'stanice' : 'stanic'}</p></a>)}
+  </div>
+  <h2>Užitečné před návštěvou</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/platnost-stk/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Platnost STK online</h3><p class="meta">Zjistěte termín zdarma podle VIN.</p></a>
+    <a class="tarjeta" href="/cena-stk/" style="display:block"><h3><i class="fa-solid fa-money-bill"></i>Ceny 2026</h3><p class="meta">Kolik stojí STK a emise.</p></a>
+    <a class="tarjeta" href="/jizda-bez-stk/" style="display:block"><h3><i class="fa-solid fa-triangle-exclamation"></i>Propadlá STK</h3><p class="meta">Pokuty a jak to rychle napravit.</p></a>
+  </div>
+  <div class="fuente">Zdroj: oficiální seznam STK Ministerstva dopravy ČR.</div>
+</main>
+</Base>

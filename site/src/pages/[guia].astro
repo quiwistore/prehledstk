@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { radce } from '../data/radce.js';
+export function getStaticPaths() {
+  return radce.map(g => ({ params: { guia: g.slug }, props: { g } }));
+}
+const { g } = Astro.props;
+const otras = radce.filter(x => x.slug !== g.slug).slice(0, 4);
+const palabras = JSON.stringify(g.cuerpo).split(/\s+/).length;
+const minutos = Math.max(2, Math.round(palabras / 200));
+const actualizado = new Date().toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' });
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": g.faq.map(f => ({"@type":"Question","name":f[0],"acceptedAnswer":{"@type":"Answer","text":f[1].replace(/<[^>]+>/g,'')}})) };
+const schemaArt = { "@context":"https://schema.org","@type":"Article","headline":g.titulo,"inLanguage":"cs","author":{"@type":"Organization","name":"Přehled STK"} };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Úvod","item":"https://prehledstk.com/"},{"@type":"ListItem","position":2,"name":"Rádce","item":"https://prehledstk.com/radce/"},{"@type":"ListItem","position":3,"name":g.corto}]};
+---
+<Base title={g.titulo} desc={g.desc} schema={schemaArt}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › <a href="/radce/">Rádce</a> › {g.corto}</div>
+  <p class="eyebrow">Rádce STK</p>
+  <h1 style="color:var(--verde);font-size:1.85rem;line-height:1.25">{g.titulo}</h1>
+  <p class="lede">{g.desc}</p>
+  <div class="meta-linea"><span><i class="fa-regular fa-calendar-check"></i>Aktualizováno {actualizado}</span><span><i class="fa-regular fa-clock"></i>{minutos} min čtení</span><span><i class="fa-solid fa-scale-balanced"></i>Zdroj: zákon 56/2001 Sb. / MD ČR</span></div>
+  {g.quick && <div class="quick"><strong>Ve zkratce:</strong> {g.quick}</div>}
+  <article>
+  {g.cuerpo.map(([tipo, contenido]) => {
+    if (tipo === 'p') return <p set:html={contenido} />;
+    if (tipo === 'h2') return <h2>{contenido}</h2>;
+    if (tipo === 'ul') return <ul>{contenido.map(i => <li set:html={i} />)}</ul>;
+    if (tipo === 'ol') return <ol>{contenido.map(i => <li set:html={i} />)}</ol>;
+  })}
+  <h2>Časté dotazy</h2>
+  {g.faq.map(f => <details class="faq"><summary>{f[0]}</summary><div class="faq-body"><p set:html={f[1]} /></div></details>)}
+  </article>
+  <h2>Kam dál</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/stanice/" style="display:block"><h3><i class="fa-solid fa-clipboard-check"></i>Najít stanici STK</h3><p class="meta">400 stanic s telefonem a adresou.</p></a>
+    <a class="tarjeta" href="/platnost-stk/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Platnost STK</h3><p class="meta">Ověření online zdarma.</p></a>
+    <a class="tarjeta" href="/cena-stk/" style="display:block"><h3><i class="fa-solid fa-money-bill"></i>Ceny 2026</h3><p class="meta">Kolik stojí prohlídka a emise.</p></a>
+  </div>
+  <h2 style="font-size:1.12rem">Další články</h2>
+  <div class="chips">
+    {otras.map(o => <a class="chip" href={`/${o.slug}/`}>{o.corto}</a>)}
+  </div>
+  <div class="fuente">Orientační informace ověřené proti platné legislativě (zákon č. 56/2001 Sb., č. 361/2000 Sb., vyhláška č. 211/2018 Sb.) a oficiálním zdrojům Ministerstva dopravy. Pravidla a ceny se mohou měnit.</div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>

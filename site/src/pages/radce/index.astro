@@ -1,0 +1,17 @@
+---
+import Base from '../../layouts/Base.astro';
+import { radce } from '../../data/radce.js';
+const title = 'Rádce STK: platnost, ceny, lhůty a pokuty srozumitelně';
+const desc = 'Vše o technické kontrole na jednom místě: ověření platnosti STK online, ceny 2026, lhůty pro auto i motorku, pokuty za propadlou STK a postup po neúspěšné prohlídce.';
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › Rádce</div>
+  <h1 style="color:var(--verde);font-size:1.7rem">Rádce STK, bez omáčky</h1>
+  <p class="lede">Každý článek vychází z platné legislativy a oficiálních zdrojů Ministerstva dopravy — a říká vám rovnou, co dělat.</p>
+  <div class="grid">
+    {radce.map(g => <a class="tarjeta" href={`/${g.slug}/`} style="display:block"><h3><i class={`fa-solid ${g.icono}`}></i>{g.corto}</h3><p>{g.gancho}</p><p class="meta" style="color:var(--verde2);font-weight:600">Číst →</p></a>)}
+  </div>
+  <div class="fuente">Závazným zdrojem je vždy platná legislativa a oficiální kanály MD ČR.</div>
+</main>
+</Base>

@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import stanice from '../../data/stanice.json';
+
+export function getStaticPaths() {
+  const mapa = {};
+  for (const s of stanice) {
+    (mapa[s.okresSlug] ||= { slug: s.okresSlug, okres: s.okres, list: [] }).list.push(s);
+  }
+  return Object.values(mapa).map(o => ({ params: { okres: o.slug }, props: { o } }));
+}
+const { o } = Astro.props;
+const kraj = o.list[0].kraj, krajSlug = o.list[0].krajSlug;
+const mesta = {};
+for (const s of o.list) (mesta[s.mestoSlug] ||= { slug: s.mestoSlug, mesto: s.mesto.startsWith('Praha') ? 'Praha' : s.mesto, n: 0 }).n++;
+const title = `STK okres ${o.okres}: ${o.list.length === 1 ? '1 stanice' : `${o.list.length} stanic`} technické kontroly`;
+const desc = `Přehled ${o.list.length === 1 ? 'stanice' : `všech ${o.list.length} stanic`} technické kontroly v okrese ${o.okres} (${kraj}) s kontakty z oficiálního seznamu Ministerstva dopravy.`;
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › <a href={`/kraj/${krajSlug}/`}>{kraj}</a> › okres {o.okres}</div>
+  <p class="eyebrow">{o.list.length === 1 ? '1 stanice' : `${o.list.length} stanic`} · {Object.keys(mesta).length} {Object.keys(mesta).length === 1 ? 'město' : Object.keys(mesta).length < 5 ? 'města' : 'měst'}</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">STK v okrese {o.okres}</h1>
+  <p class="lede">Autorizované stanice technické kontroly v okrese {o.okres} podle měst, s přímými kontakty.</p>
+  {Object.values(mesta).map(mm => <>
+    <h2><a href={`/stk/${mm.slug}/`}>{mm.mesto}</a></h2>
+    <div class="grid">
+      {o.list.filter(s => s.mestoSlug === mm.slug).map(s => <a class="tarjeta" href={`/stanice/${s.slug}/`} style="display:block"><h3><i class="fa-solid fa-clipboard-check"></i>č. {s.cislo}</h3><p class="meta">{s.provozovatel.slice(0, 44)}</p><p class="meta">{s.ulice}</p></a>)}
+    </div>
+  </>)}
+  <div class="fuente">Zdroj: oficiální seznam STK Ministerstva dopravy ČR.</div>
+</main>
+</Base>

@@ -1,0 +1,120 @@
+---
+import Base from '../../layouts/Base.astro';
+import stanice from '../../data/stanice.json';
+
+export function getStaticPaths() {
+  return stanice.map(s => ({ params: { slug: s.slug }, props: { s } }));
+}
+const { s } = Astro.props;
+const adresa = `${s.ulice}, ${s.psc} ${s.mesto}`;
+const mapaQ = encodeURIComponent(`${s.provozovatel}, ${adresa}, Česko`);
+const sousede = stanice.filter(x => x.okresSlug === s.okresSlug && x.slug !== s.slug).slice(0, 6);
+const druhyLabel = s.druhyTxt.join(', ');
+const uvod = [
+  `Stanice technické kontroly č. ${s.cislo} ve městě ${s.mesto}, provozovaná společností ${s.provozovatel}. Níže najdete telefon, adresu, mapu a typy vozidel, které stanice kontroluje.`,
+  `Hledáte STK ve městě ${s.mesto}? Stanice č. ${s.cislo} (${s.provozovatel}) je oficiálně autorizovaná Ministerstvem dopravy. Zde je přímý telefon, e-mail a adresa s mapou.`,
+  `Kompletní údaje stanice technické kontroly č. ${s.cislo}: adresa (${s.mesto}), přímý kontakt na provozovatele a přehled kontrolovaných kategorií vozidel.`,
+  `STK č. ${s.cislo} — ${s.provozovatel}, ${s.mesto}. Ověřené kontakty z oficiálního seznamu Ministerstva dopravy: telefon, e-mail, adresa a mapa.`
+][parseInt(s.cislo.replace(/\D/g, '') || '0', 10) % 4];
+const title = `STK ${s.mesto} č. ${s.cislo} — telefon, adresa a objednání`;
+const desc = `Stanice technické kontroly č. ${s.cislo} ve městě ${s.mesto} (${s.provozovatel}): telefon ${s.telefon.split(',')[0].trim()}, adresa ${s.ulice}, kontrolované kategorie ${s.druhy.join(', ')}.`;
+const schema = {
+  "@context": "https://schema.org", "@type": "AutoRepair",
+  "name": `STK č. ${s.cislo} — ${s.provozovatel}`,
+  "address": { "@type": "PostalAddress", "streetAddress": s.ulice, "addressLocality": s.mesto, "postalCode": s.psc, "addressRegion": s.kraj, "addressCountry": "CZ" },
+  "telephone": s.telefon.split(',')[0].trim(),
+  "email": s.email,
+  "url": new URL(Astro.url.pathname, Astro.site).href
+};
+const faq = [
+  { q: `Jak se objednat na STK č. ${s.cislo} (${s.mesto})?`, a: `Nejjistější je zavolat přímo na stanici (${s.telefon.split(',')[0].trim()}) nebo napsat na ${s.email}. Řada stanic bere i příjezd bez objednání, ale v posledních dnech měsíce bývají fronty.` },
+  { q: `Jaká vozidla tato stanice kontroluje?`, a: `Podle oficiálního seznamu Ministerstva dopravy stanice provádí prohlídky kategorií: ${druhyLabel}. Pokud máte speciální vozidlo (LPG, veterán), ověřte si to předem telefonicky.` },
+  { q: `Kolik zaplatím za technickou prohlídku?`, a: `Ceny nejsou centrálně regulované — každá stanice má svůj ceník. U osobního auta včetně měření emisí počítejte zpravidla s 1 300 až 2 700 Kč. Přesnou cenu vám sdělí stanice telefonicky.` },
+  { q: `Co si mám vzít s sebou?`, a: `Osvědčení o registraci vozidla (malý technický průkaz, resp. ORV) a u přestavěných vozidel doklady k přestavbě. Od roku 2024 se výsledky evidují elektronicky — papírové potvrzení o emisích už nepotřebujete.` }
+];
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": faq.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}})) };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Úvod","item":"https://prehledstk.com/"},
+  {"@type":"ListItem","position":2,"name":s.kraj,"item":`https://prehledstk.com/kraj/${s.krajSlug}/`},
+  {"@type":"ListItem","position":3,"name":`STK ${s.mesto}`,"item":`https://prehledstk.com/stk/${s.mestoSlug}/`},
+  {"@type":"ListItem","position":4,"name":`Stanice č. ${s.cislo}`}
+]};
+---
+<Base title={title} desc={desc} schema={schema}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › <a href={`/kraj/${s.krajSlug}/`}>{s.kraj}</a> › <a href={`/stk/${s.mestoSlug}/`}>{s.mesto}</a> › č. {s.cislo}</div>
+  <p class="eyebrow">Autorizovaná stanice · okres {s.okres}</p>
+  <h1 style="color:var(--verde);font-size:1.7rem;line-height:1.3">STK {s.mesto} — stanice č. {s.cislo}</h1>
+  <p style="margin:8px 0 0;font-weight:600"><i class="fa-solid fa-building" style="color:var(--verde2)"></i> {s.provozovatel}</p>
+  <p style="margin-top:12px">{uvod}</p>
+  <div class="botonera" style="margin:14px 0 6px">
+    {s.telefon && <a class="btn" style="font-size:.88rem;padding:9px 16px" href={`tel:${s.telefon.split(',')[0].replace(/\s/g, '')}`}><i class="fa-solid fa-phone"></i> Zavolat</a>}
+    {s.email && <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--verde2);color:#fff" href={`mailto:${s.email}`}><i class="fa-solid fa-envelope"></i> E-mail</a>}
+    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--gris);color:var(--verde);border:1px solid var(--borde)" href="#mapa"><i class="fa-solid fa-map"></i> Mapa</a>
+  </div>
+
+  <div class="layout">
+  <article>
+  <div class="caja verificado">
+    <p style="margin:0"><span class="badge tipo">č. {s.cislo}</span> {s.druhyTxt.map(d => <span class="badge tipo" style="margin-left:6px">{d}</span>)}</p>
+    <p style="margin:10px 0 0"><i class="fa-solid fa-location-dot"></i> <strong>Adresa:</strong> {adresa}</p>
+    {s.telefon && <p style="margin:8px 0 0"><i class="fa-solid fa-phone"></i> <strong>Telefon:</strong> {s.telefon}</p>}
+    {s.email && <p style="margin:8px 0 0"><i class="fa-solid fa-envelope"></i> <strong>E-mail:</strong> {s.email}</p>}
+    <p style="margin:8px 0 0;font-size:.87rem;color:#7a8a83">Zdroj: oficiální seznam STK Ministerstva dopravy ČR. Otevírací dobu si ověřte telefonicky.</p>
+  </div>
+
+  <iframe class="mapa" id="mapa" loading="lazy" src={`https://www.google.com/maps?q=${mapaQ}&z=15&output=embed`} title={`Mapa: STK č. ${s.cislo} ${s.mesto}`}></iframe>
+  <div class="botonera" style="margin:6px 0 4px">
+    <a class="btn" style="background:var(--verde2);color:#fff" href={`https://www.google.com/maps/dir/?api=1&destination=${mapaQ}`} rel="nofollow noopener" target="_blank"><i class="fa-solid fa-diamond-turn-right"></i> Navigovat</a>
+  </div>
+
+  <h2>Než vyrazíte: rychlá příprava</h2>
+  <ul>
+    <li><strong>Zavolejte si termín</strong> — mnoho stanic funguje i bez objednání, ale konec měsíce bývá plný.</li>
+    <li><strong>Doklady:</strong> osvědčení o registraci vozidla (ORV / malý techničák). <a href="/co-vzit-na-stk/">Kompletní seznam zde</a>.</li>
+    <li><strong>Prohlédněte auto předem:</strong> světla, stěrače, pneumatiky a kontrolky — <a href="/radce/">nejčastější důvody neprojití</a> jsou banality.</li>
+    <li><strong>Termín hlídejte:</strong> <a href="/platnost-stk/">ověřte si platnost STK online</a> — jízda s propadlou prohlídkou znamená <a href="/jizda-bez-stk/">pokutu</a>.</li>
+  </ul>
+
+  <h2>Časté dotazy</h2>
+  {faq.map(f => <details class="faq"><summary>{f.q}</summary><div class="faq-body"><p>{f.a}</p></div></details>)}
+
+  {sousede.length > 0 && <>
+    <h2>Další stanice v okrese {s.okres}</h2>
+    <div class="grid">
+      {sousede.map(h => <a class="tarjeta" href={`/stanice/${h.slug}/`} style="display:block"><h3><i class="fa-solid fa-clipboard-check"></i>č. {h.cislo} · {h.mesto}</h3><p class="meta">{h.provozovatel.slice(0, 40)}</p></a>)}
+    </div>
+  </>}
+
+  <div class="fuente">Nezávislý web bez vazby na Ministerstvo dopravy. Údaje pocházejí z oficiálního veřejného seznamu stanic technické kontroly; kontakty a otevírací doby se mohou měnit — ověřte je u stanice.</div>
+  </article>
+
+  <aside class="lateral">
+    <div class="caja">
+      <h3><i class="fa-solid fa-circle-info" style="color:var(--verde2);margin-right:6px"></i>Rychlý přehled</h3>
+      <p style="margin:10px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Číslo stanice</p>
+      <p style="margin:2px 0 0;font-weight:700">{s.cislo}</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Kategorie vozidel</p>
+      <p style="margin:2px 0 0;font-weight:700;font-size:.92rem">{druhyLabel}</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Okres / kraj</p>
+      <p style="margin:2px 0 0;font-weight:700;font-size:.92rem">{s.okres} · {s.kraj}</p>
+      <p style="margin:12px 0 0;font-size:.8rem;color:#7a8a83;font-weight:700;text-transform:uppercase">Orientační cena (osobní auto)</p>
+      <p style="margin:2px 0 0;font-weight:700">1 300 – 2 700 Kč vč. emisí</p>
+    </div>
+    <div class="caja">
+      <h3><i class="fa-solid fa-book-open" style="color:var(--verde2);margin-right:6px"></i>Rádce STK</h3>
+      <ul>
+        <li><a href="/platnost-stk/">Ověření platnosti STK</a></li>
+        <li><a href="/cena-stk/">Kolik stojí STK a emise</a></li>
+        <li><a href="/lhuty-stk/">Lhůty: auto, motorka, přívěs</a></li>
+        <li><a href="/co-vzit-na-stk/">Co vzít s sebou</a></li>
+        <li><a href="/jizda-bez-stk/">Pokuty za propadlou STK</a></li>
+        <li><a href="/opakovana-prohlidka/">Neprošli jste? Opakovaná prohlídka</a></li>
+      </ul>
+    </div>
+  </aside>
+  </div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>

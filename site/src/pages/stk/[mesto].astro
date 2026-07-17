@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import stanice from '../../data/stanice.json';
+
+export function getStaticPaths() {
+  const mapa = {};
+  for (const s of stanice) {
+    (mapa[s.mestoSlug] ||= { slug: s.mestoSlug, mesto: s.mesto.startsWith('Praha') ? 'Praha' : s.mesto, list: [] }).list.push(s);
+  }
+  return Object.values(mapa).map(m => ({ params: { mesto: m.slug }, props: { m } }));
+}
+const { m } = Astro.props;
+const kraj = m.list[0].kraj, krajSlug = m.list[0].krajSlug;
+const title = `STK ${m.mesto}: ${m.list.length === 1 ? 'stanice technické kontroly' : `${m.list.length} stanice technické kontroly`} s telefonem`;
+const desc = `${m.list.length === 1 ? 'Stanice technické kontroly' : `Všech ${m.list.length} stanic technické kontroly`} ve městě ${m.mesto} s telefonem, e-mailem a adresou — z oficiálního seznamu Ministerstva dopravy. Plus ceny a co vzít s sebou.`;
+const schemaCol = { "@context":"https://schema.org","@type":"CollectionPage","name":title,
+  "mainEntity": { "@type":"ItemList","numberOfItems":m.list.length,"itemListElement":m.list.map((s,i)=>({"@type":"ListItem","position":i+1,"name":`STK č. ${s.cislo}`,"url":`https://prehledstk.com/stanice/${s.slug}/`})) } };
+const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Úvod","item":"https://prehledstk.com/"},{"@type":"ListItem","position":2,"name":kraj,"item":`https://prehledstk.com/kraj/${krajSlug}/`},{"@type":"ListItem","position":3,"name":`STK ${m.mesto}`}]};
+const faq = [
+  { q: `Kolik stojí STK ve městě ${m.mesto}?`, a: `Ceny si každá stanice určuje sama — nejsou centrálně regulované. U osobního auta včetně měření emisí počítejte zpravidla s 1 300 až 2 700 Kč. Vyplatí se obvolat stanice a porovnat ceník.` },
+  { q: `Musím se na STK objednat předem?`, a: `Většina stanic funguje i bez objednání, ale termín po telefonu vám ušetří čekání — zejména na konci měsíce, kdy jezdí nejvíce řidičů s končící platností.` },
+  { q: `Jak dlouho prohlídka trvá?`, a: `Samotná technická prohlídka s měřením emisí zabere obvykle 30 až 60 minut. S čekáním počítejte celkově s hodinou až dvěma podle vytížení stanice.` }
+];
+const schemaFaq = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": faq.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}})) };
+---
+<Base title={title} desc={desc} schema={schemaCol}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › <a href={`/kraj/${krajSlug}/`}>{kraj}</a> › {m.mesto}</div>
+  <p class="eyebrow">{m.list.length === 1 ? '1 autorizovaná stanice' : `${m.list.length} autorizovaných stanic`} · {kraj}</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">STK {m.mesto}</h1>
+  <p class="lede">{m.list.length === 1 ? 'Autorizovaná stanice technické kontroly' : 'Všechny autorizované stanice technické kontroly'} ve městě {m.mesto} podle oficiálního seznamu Ministerstva dopravy — s přímým telefonem, e-mailem a adresou.</p>
+  <div class="grid">
+    {m.list.map(s => <a class="tarjeta" href={`/stanice/${s.slug}/`} style="display:block"><h3><i class="fa-solid fa-clipboard-check"></i>Stanice č. {s.cislo}</h3><p class="meta">{s.provozovatel.slice(0, 46)}</p><p class="meta">{s.ulice}{s.mesto.startsWith('Praha ') ? ` · ${s.mesto}` : ''}</p><p class="meta" style="color:var(--verde2);font-weight:600">{s.druhy.join(' · ')}</p></a>)}
+  </div>
+  <h2>Praktické informace</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/cena-stk/" style="display:block"><h3><i class="fa-solid fa-money-bill"></i>Kolik stojí STK</h3><p class="meta">Orientační ceny 2026 a z čeho se skládají.</p></a>
+    <a class="tarjeta" href="/co-vzit-na-stk/" style="display:block"><h3><i class="fa-solid fa-list-check"></i>Co vzít s sebou</h3><p class="meta">Doklady a příprava vozidla.</p></a>
+    <a class="tarjeta" href="/platnost-stk/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Platnost STK</h3><p class="meta">Ověření online zdarma podle VIN.</p></a>
+    <a class="tarjeta" href="/lhuty-stk/" style="display:block"><h3><i class="fa-solid fa-clock"></i>Lhůty prohlídek</h3><p class="meta">Auto 4+2, motorka 6+4, přívěsy.</p></a>
+  </div>
+  <h2>Časté dotazy</h2>
+  {faq.map(f => <details class="faq"><summary>{f.q}</summary><div class="faq-body"><p>{f.a}</p></div></details>)}
+  <div class="fuente">Nezávislý web. Zdroj seznamu: oficiální data Ministerstva dopravy ČR.</div>
+</main>
+<script type="application/ld+json" set:html={JSON.stringify(schemaFaq)} />
+<script type="application/ld+json" set:html={JSON.stringify(migas)} />
+</Base>

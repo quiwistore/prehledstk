@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import stanice from '../../data/stanice.json';
+const kraje = {};
+for (const s of stanice) (kraje[s.krajSlug] ||= { slug: s.krajSlug, kraj: s.kraj, n: 0 }).n++;
+const title = `Seznam všech ${stanice.length} stanic technické kontroly v ČR (oficiální data)`;
+const desc = `Kompletní seznam ${stanice.length} autorizovaných stanic technické kontroly v České republice s telefonem, e-mailem a adresou — z oficiálních dat Ministerstva dopravy, po krajích.`;
+---
+<Base title={title} desc={desc}>
+<main class="wrap">
+  <div class="migas"><a href="/">Úvod</a> › Stanice STK</div>
+  <p class="eyebrow">{stanice.length} stanic · 14 krajů · aktualizováno podle MD ČR</p>
+  <h1 style="color:var(--verde);font-size:1.7rem">Všechny stanice technické kontroly v ČR</h1>
+  <p class="lede">Každá autorizovaná STK s přímým telefonem, e-mailem a adresou. Vyberte kraj, nebo hledejte město či číslo stanice.</p>
+  <input class="filtro" id="filtro" type="search" placeholder="Hledejte město nebo číslo stanice (např. Kladno, 31.00)…" autocomplete="off" />
+  <div class="grid" id="kraje">
+    {Object.values(kraje).sort((a,b) => a.kraj.localeCompare(b.kraj, 'cs')).map(kk => <a class="tarjeta" href={`/kraj/${kk.slug}/`} style="display:block"><h3><i class="fa-solid fa-map"></i>{kk.kraj}</h3><p class="meta">{kk.n} stanic</p></a>)}
+  </div>
+  <div class="grid" id="vysledky" style="display:none"></div>
+  <div class="fuente">Zdroj: oficiální seznam STK Ministerstva dopravy ČR.</div>
+</main>
+<script define:vars={{ mini: stanice.map(s => ({ slug: s.slug, c: s.cislo, m: s.mesto, p: s.provozovatel.slice(0, 40) })) }}>
+const inp = document.getElementById('filtro');
+const kraje = document.getElementById('kraje');
+const vys = document.getElementById('vysledky');
+const norm = t => t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+inp.addEventListener('input', () => {
+  const q = norm(inp.value.trim());
+  if (q.length < 2) { kraje.style.display = ''; vys.style.display = 'none'; return; }
+  const hits = mini.filter(s => norm(s.m).includes(q) || s.c.includes(q)).slice(0, 24);
+  kraje.style.display = 'none'; vys.style.display = '';
+  vys.innerHTML = hits.length ? hits.map(s => `<a class="tarjeta" href="/stanice/${s.slug}/" style="display:block"><h3><i class="fa-solid fa-clipboard-check"></i>č. ${s.c} · ${s.m}</h3><p class="meta">${s.p}</p></a>`).join('') : '<p>Nic nenalezeno — zkuste jiné město.</p>';
+});
+</script>
+</Base>

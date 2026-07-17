@@ -1,0 +1,10076 @@
+[
+{
+"slug": "stk-31-00-praha-4",
+"cislo": "31.00",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "149 00",
+"mesto": "Praha 4",
+"ulice": "Türkova 1001",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "267 913 838, 267 288 245",
+"email": "stk@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-02-praha-9",
+"cislo": "31.02",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "190 00",
+"mesto": "Praha 9",
+"ulice": "Spojovací 41",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "284829315",
+"email": "stk-spojovaci@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-03-praha-10",
+"cislo": "31.03",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "108 56",
+"mesto": "Praha 10",
+"ulice": "U vozovny 6",
+"provozovatel": "Dopravní podnik hl.m. Prahy a.s.",
+"telefon": "272704945",
+"email": "stk@dpp.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-04-praha-5",
+"cislo": "31.04",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "150 00",
+"mesto": "Praha 5",
+"ulice": "Plzeňská 215b",
+"provozovatel": "STANICE TECHNICKÉ KONTROLY MOTOL, s.r.o.",
+"telefon": "257210963",
+"email": "stk@stkmotol.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-05-praha-10",
+"cislo": "31.05",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "100 31",
+"mesto": "Praha 10",
+"ulice": "Průběžná 76",
+"provozovatel": "STK Praha, s.r.o.",
+"telefon": "274774867",
+"email": "stk@aboservis.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-06-praha-5",
+"cislo": "31.06",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "153 00",
+"mesto": "Praha 5",
+"ulice": "Jeremiášova 870",
+"provozovatel": "DISKARD STK spol. s r.o.",
+"telefon": "723904805",
+"email": "info@stk-diskard.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-07-praha-4",
+"cislo": "31.07",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "148 00",
+"mesto": "Praha 4",
+"ulice": "Dobronická 635",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "261 112 399, 261 112 597",
+"email": "stk-kunratice-nakladni@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-08-praha-6",
+"cislo": "31.08",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "169 00",
+"mesto": "Praha 6",
+"ulice": "Radimova 39",
+"provozovatel": "Břevnovská STK s.r.o.",
+"telefon": "220513268",
+"email": "brevnovska.stk@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-09-praha-9",
+"cislo": "31.09",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "181 00",
+"mesto": "Praha 9",
+"ulice": "Chlumecká 765/6",
+"provozovatel": "Antonín Indra STK ,spol. s r.o.",
+"telefon": "720696972",
+"email": "jan.lovas69@gmail.com",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-10-praha-3",
+"cislo": "31.10",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "130 00",
+"mesto": "Praha 3",
+"ulice": "Osiková 2688/2",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "251002130",
+"email": "stkjarov@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-12-praha-15",
+"cislo": "31.12",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "109 00",
+"mesto": "Praha 15",
+"ulice": "K Měcholupům 3",
+"provozovatel": "AUTO-VESELÝ, s.r.o.",
+"telefon": "274 877 292",
+"email": "vesely@stkmecholupy.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-13-praha-bechovice",
+"cislo": "31.13",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "190 11",
+"mesto": "Praha - Běchovice",
+"ulice": "Podnikatelská I 652",
+"provozovatel": "PRONTO STK s.r.o.",
+"telefon": "222564115",
+"email": "stkpraha@stkpraha.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-14-praha-10",
+"cislo": "31.14",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "101 00",
+"mesto": "Praha 10",
+"ulice": "Nad Vršovskou horou 88/4",
+"provozovatel": "STK Bohdalec s.r.o.",
+"telefon": "267 107 485, 267 107 488",
+"email": "info@stk-bohdalec.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-15-praha-9",
+"cislo": "31.15",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "190 00",
+"mesto": "Praha 9",
+"ulice": "Na Výběžku 688/11",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "284 818 928, 284 818 927",
+"email": "stk-vysocany@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-16-praha-8",
+"cislo": "31.16",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "182 00",
+"mesto": "Praha 8",
+"ulice": "Bešťákova 567/3",
+"provozovatel": "MYNOS STK, s.r.o.",
+"telefon": "286580824",
+"email": "mynos@ert.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-17-praha-9",
+"cislo": "31.17",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "190 00",
+"mesto": "Praha 9",
+"ulice": "Prosecká 817",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "283881307",
+"email": "stk-prosek@dekra.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-18-praha-10",
+"cislo": "31.18",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "101 01",
+"mesto": "Praha 10",
+"ulice": "Přípotoční 300",
+"provozovatel": "Zařízení služeb pro MV",
+"telefon": "974844447",
+"email": "stk3118@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-19-praha-5",
+"cislo": "31.19",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "153 00",
+"mesto": "Praha 5",
+"ulice": "Výpadová 1559",
+"provozovatel": "AUTO FEMAT s.r.o.",
+"telefon": "242 410 660-1",
+"email": "stk@femat-auto.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-20-praha-14",
+"cislo": "31.20",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "198 00",
+"mesto": "Praha 14",
+"ulice": "Skorkovská  1537",
+"provozovatel": "TÜV NORD Czech, s.r.o.",
+"telefon": "281915951",
+"email": "zizkovsky@tuev-nord.cz; stk-praha@tuev-nord.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-21-praha-7",
+"cislo": "31.21",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "170 00",
+"mesto": "Praha 7",
+"ulice": "Za elektrárnou 19",
+"provozovatel": "STK Holešovice s.r.o.",
+"telefon": "777208680",
+"email": "stk@stkholesovice.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-22-praha-6",
+"cislo": "31.22",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "163 00",
+"mesto": "Praha 6",
+"ulice": "Karlovarská 814",
+"provozovatel": "NH group s.r.o.",
+"telefon": "725392611",
+"email": "stkrepy@stkrepy.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-23-praha-4",
+"cislo": "31.23",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "148 25",
+"mesto": "Praha 4",
+"ulice": "Dobronická 1216",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "242456194",
+"email": "stkkunratice@gmail.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-25-praha-10-uhrineves",
+"cislo": "31.25",
+"druhy": [
+"OA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "104 00",
+"mesto": "Praha 10 Uhřiněves",
+"ulice": "Podleská 1545/1",
+"provozovatel": "PETRA s.r.o.",
+"telefon": "267315085",
+"email": "stk3125@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-26-praha-4",
+"cislo": "31.26",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "143 00",
+"mesto": "Praha 4",
+"ulice": "Ohradní",
+"provozovatel": "PRONTO STK s.r.o.",
+"telefon": "222564115",
+"email": "stkpraha@stkpraha.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-27-praha-8",
+"cislo": "31.27",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "184 00",
+"mesto": "Praha 8",
+"ulice": "Lodžská 814/24a",
+"provozovatel": "TEKOSO-STK spol.s r.o.",
+"telefon": "736191912",
+"email": "stk3127@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-28-praha-8",
+"cislo": "31.28",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "143 00",
+"mesto": "Praha 8",
+"ulice": "Mezi vodami 1097/25",
+"provozovatel": "ESPM s.r.o.",
+"telefon": "725888170",
+"email": "info@stk-modrany.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-30-praha-3",
+"cislo": "31.30",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "130 00",
+"mesto": "Praha 3",
+"ulice": "Osiková 2",
+"provozovatel": "STECH.ING. s.r.o.",
+"telefon": "605339922",
+"email": "stk3130@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-31-praha-9-letnany",
+"cislo": "31.31",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "199 00",
+"mesto": "Praha 9 - Letňany",
+"ulice": "pozemek p.č. 756/49, 756/50",
+"provozovatel": "TEKOSO-STK spol.s r.o.",
+"telefon": "733601010",
+"email": "stk3131@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-32-praha-10",
+"cislo": "31.32",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "101 01",
+"mesto": "Praha 10",
+"ulice": "Brigádníků 3067/6",
+"provozovatel": "STK Divišov s.r.o.",
+"telefon": "721316915",
+"email": "info@stkstrasnice.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-33-praha-8",
+"cislo": "31.33",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "184 00",
+"mesto": "Praha 8",
+"ulice": "K Ládví 925",
+"provozovatel": "STK Bohnice s.r.o.",
+"telefon": "604288244",
+"email": "stkbohnice@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-31-34-praha-8",
+"cislo": "31.34",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "184 00",
+"mesto": "Praha 8",
+"ulice": "Dopraváků 723/1",
+"provozovatel": "TEKOSO-STK spol.s r.o.",
+"telefon": "283085164",
+"email": "stk3134@seznam.cz",
+"orp": "Praha",
+"okres": "Praha",
+"kraj": "Hlavní město Praha",
+"mestoSlug": "praha",
+"okresSlug": "praha",
+"krajSlug": "hlavni-mesto-praha"
+},
+{
+"slug": "stk-32-01-pribram",
+"cislo": "32.01",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "261 01",
+"mesto": "Příbram",
+"ulice": "K Podlesí 539",
+"provozovatel": "BOVAS s.r.o.",
+"telefon": "318628552",
+"email": "stkpbsro@volny.cz",
+"orp": "Příbram",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "pribram",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-02-melnik",
+"cislo": "32.02",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "276 01",
+"mesto": "Mělník",
+"ulice": "Mladoboleslavská 2801",
+"provozovatel": "STK Mělník Mladoboleslavská s.r.o.",
+"telefon": "315623328",
+"email": "stkmelnik@stkmelnik.cz;",
+"orp": "Mělník",
+"okres": "Mělník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "melnik",
+"okresSlug": "melnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-03-slany",
+"cislo": "32.03",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "274 01",
+"mesto": "Slaný",
+"ulice": "Netovická 350",
+"provozovatel": "Terri, s.r.o.",
+"telefon": "312527670",
+"email": "stk.slany@terri.cz",
+"orp": "Slaný",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "slany",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-04-uhlirske-janovice",
+"cislo": "32.04",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "285 04",
+"mesto": "Uhlířské Janovice",
+"ulice": "Kolínská 670",
+"provozovatel": "STK Janovice, s.r.o.",
+"telefon": "327542266",
+"email": "stkjanovice-osobni@seznam.cz",
+"orp": "Kutná Hora",
+"okres": "Kutná Hora",
+"kraj": "Středočeský kraj",
+"mestoSlug": "uhlirske-janovice",
+"okresSlug": "kutna-hora",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-05-divisov",
+"cislo": "32.05",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "257 26",
+"mesto": "Divišov",
+"ulice": "Na Pile 300",
+"provozovatel": "STK Divišov s.r.o.",
+"telefon": "317855330",
+"email": "stkdivisov@volny.cz",
+"orp": "Benešov",
+"okres": "Benešov",
+"kraj": "Středočeský kraj",
+"mestoSlug": "divisov",
+"okresSlug": "benesov",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-06-dobrovice",
+"cislo": "32.06",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "294 41",
+"mesto": "Dobrovice",
+"ulice": "Kosořická 580",
+"provozovatel": "STK - PECHA v.o.s.",
+"telefon": "326398112",
+"email": "pecha-stk@quick.cz",
+"orp": "Mladá Boleslav",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský kraj",
+"mestoSlug": "dobrovice",
+"okresSlug": "mlada-boleslav",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-07-kladno",
+"cislo": "32.07",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "272 04",
+"mesto": "Kladno",
+"ulice": "Vašíčkova 71",
+"provozovatel": "AUTOŠTOL-STK s r.o.",
+"telefon": "312 267 113",
+"email": "stkkladno@volny.cz",
+"orp": "Kladno",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kladno",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-08-pribram",
+"cislo": "32.08",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "261 01",
+"mesto": "Příbram",
+"ulice": "Obecnická 323",
+"provozovatel": "ASOCOM spol. s r.o.",
+"telefon": "318635564",
+"email": "bergers@asocom.cz; manager@asocom.cz",
+"orp": "Příbram",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "pribram",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-09-nymburk",
+"cislo": "32.09",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "288 02",
+"mesto": "Nymburk",
+"ulice": "Maršála Koněva 660/44",
+"provozovatel": "ŠPÁRA, s.r.o.",
+"telefon": "325513653",
+"email": "stk3209@tiscali.cz",
+"orp": "Nymburk",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "nymburk",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-10-kolin",
+"cislo": "32.10",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "280 02",
+"mesto": "Kolín",
+"ulice": "Ovčárecká 509",
+"provozovatel": "Stanice technické kontroly Kolín spol. s r.o.",
+"telefon": "321724966",
+"email": "stk3210@volny.cz",
+"orp": "Kolín",
+"okres": "Kolín",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kolin",
+"okresSlug": "kolin",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-11-mnisek-pod-brdy",
+"cislo": "32.11",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "252 10",
+"mesto": "Mníšek pod Brdy",
+"ulice": "Nádražní 439",
+"provozovatel": "INTERAUTO s.r.o.",
+"telefon": "318592640",
+"email": "interauto@volny.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "mnisek-pod-brdy",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-12-rakovnik-ii",
+"cislo": "32.12",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "269 01",
+"mesto": "Rakovník II",
+"ulice": "Luženská 1992",
+"provozovatel": "AUTOFIJA s.r.o.",
+"telefon": "313512332",
+"email": "autofija@tiscali.cz",
+"orp": "Rakovník",
+"okres": "Rakovník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "rakovnik-ii",
+"okresSlug": "rakovnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-13-brandys-nad-labem-stara-boleslav",
+"cislo": "32.13",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "250 01",
+"mesto": "Brandýs nad Labem-Stará Boleslav",
+"ulice": "Zápská 2257",
+"provozovatel": "STK Centrum spol. s r.o.",
+"telefon": "326370055",
+"email": "stk@stkbrandys.cz",
+"orp": "Brandýs nad Labem-Stará Boleslav",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "brandys-nad-labem-stara-boleslav",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-14-kladno",
+"cislo": "32.14",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "272 80",
+"mesto": "Kladno",
+"ulice": "Železničářů 885 areál ČSAD",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "312680016",
+"email": "kladno@testcar.cz",
+"orp": "Kladno",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kladno",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-15-kralupy-nad-vltavou",
+"cislo": "32.15",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "278 01",
+"mesto": "Kralupy nad Vltavou",
+"ulice": "Přemyslova 431",
+"provozovatel": "STK Kralupy s.r.o.",
+"telefon": "315727897",
+"email": "info@stkkralupy.cz",
+"orp": "Kralupy nad Vltavou",
+"okres": "Mělník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kralupy-nad-vltavou",
+"okresSlug": "melnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-16-kutna-hora",
+"cislo": "32.16",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "284 45",
+"mesto": "Kutná Hora",
+"ulice": "Hrnčířská 207",
+"provozovatel": "UNIKOM - STK s.r.o.",
+"telefon": "327514515",
+"email": "stk@unikom.cz",
+"orp": "Kutná Hora",
+"okres": "Kutná Hora",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kutna-hora",
+"okresSlug": "kutna-hora",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-17-horovice",
+"cislo": "32.17",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "268 01",
+"mesto": "Hořovice",
+"ulice": "Masarykova 1432",
+"provozovatel": "STK Hořovice spol. s r.o.",
+"telefon": "311516727",
+"email": "jcejka@stkhorovice.cz",
+"orp": "Hořovice",
+"okres": "Beroun",
+"kraj": "Středočeský kraj",
+"mestoSlug": "horovice",
+"okresSlug": "beroun",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-18-kosmonosy",
+"cislo": "32.18",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "293 06",
+"mesto": "Kosmonosy",
+"ulice": "Boleslavská 1042",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "326327567",
+"email": "stk3218@seznam.cz",
+"orp": "Mladá Boleslav",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kosmonosy",
+"okresSlug": "mlada-boleslav",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-19-kostelec-nad-cernymi-lesy",
+"cislo": "32.19",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "281 63",
+"mesto": "Kostelec nad Černými Lesy",
+"ulice": "nám. Smiřických 16",
+"provozovatel": "ČSAD POLKOST spol. s r.o.",
+"telefon": "321 679 289, ústř. 679274",
+"email": "stk.osobni@csadpolkost.cz",
+"orp": "Říčany",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kostelec-nad-cernymi-lesy",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-20-nymburk",
+"cislo": "32.20",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "288 02",
+"mesto": "Nymburk",
+"ulice": "Draho u Budiměřic 14",
+"provozovatel": "Technický servis STK s.r.o.",
+"telefon": "325546074",
+"email": "stk.3220@quick.cz",
+"orp": "Nymburk",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "nymburk",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-21-pribram-i",
+"cislo": "32.21",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "261 01",
+"mesto": "Příbram I",
+"ulice": "Drásov 121",
+"provozovatel": "AUTO PETRA spol. s r.o.",
+"telefon": "318690266",
+"email": "stkdrasov@volny.cz",
+"orp": "Příbram",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "pribram-i",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-22-brezova-olesko",
+"cislo": "32.22",
+"druhy": [
+"OA",
+"TRA"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory"
+],
+"psc": "252 45",
+"mesto": "Březová-Oleško",
+"ulice": "Hlavní 9",
+"provozovatel": "AUTO PAŘÍZEK  s.r.o.",
+"telefon": "257760944",
+"email": "autoparizek@seznam.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "brezova-olesko",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-23-benesov",
+"cislo": "32.23",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "256 01",
+"mesto": "Benešov",
+"ulice": "Dlouhé Pole",
+"provozovatel": "REVIT spol. s r.o.",
+"telefon": "317 726 351",
+"email": "stkbenesov@seznam.cz",
+"orp": "Benešov",
+"okres": "Benešov",
+"kraj": "Středočeský kraj",
+"mestoSlug": "benesov",
+"okresSlug": "benesov",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-24-horovice",
+"cislo": "32.24",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "268 01",
+"mesto": "Hořovice",
+"ulice": "Masarykova 392",
+"provozovatel": "JIKE s.r.o.",
+"telefon": "311 513 777",
+"email": "stk32_24@seznam.cz",
+"orp": "Hořovice",
+"okres": "Beroun",
+"kraj": "Středočeský kraj",
+"mestoSlug": "horovice",
+"okresSlug": "beroun",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-25-horomerice",
+"cislo": "32.25",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "252 62",
+"mesto": "Horoměřice",
+"ulice": "Suchdolská 682",
+"provozovatel": "JISTAB, a.s.",
+"telefon": "220970079",
+"email": "stk@jistab.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "horomerice",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-26-libcice-nad-vltavou",
+"cislo": "32.26",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "252 66",
+"mesto": "Libčice nad Vltavou",
+"ulice": "Vltavská 7",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "735732177",
+"email": "stk3226@seznam.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "libcice-nad-vltavou",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-27-ricany",
+"cislo": "32.27",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "251 01",
+"mesto": "Říčany",
+"ulice": "Kolovratská 2020",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "323 605 363",
+"email": "stk3227@centrum.cz",
+"orp": "Říčany",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "ricany",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-28-kraluv-dvur",
+"cislo": "32.28",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "267 01",
+"mesto": "Králův Dvůr",
+"ulice": "Pod Hájem 372",
+"provozovatel": "A-Z BEROUN s.r.o.",
+"telefon": "311637777",
+"email": "stk3228@seznam.cz",
+"orp": "Beroun",
+"okres": "Beroun",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kraluv-dvur",
+"okresSlug": "beroun",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-29-nymburk",
+"cislo": "32.29",
+"druhy": [
+"OA",
+"TRA"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory"
+],
+"psc": "288 02",
+"mesto": "Nymburk",
+"ulice": "Dopravní 2098",
+"provozovatel": "BUILDING SP spol. s r.o.",
+"telefon": "724750750",
+"email": "stk@building.cz",
+"orp": "Nymburk",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "nymburk",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-30-caslav",
+"cislo": "32.30",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "286 01",
+"mesto": "Čáslav",
+"ulice": "Vrchovská 1760",
+"provozovatel": "ABERA spol. s r.o.",
+"telefon": "327315555",
+"email": "abera@abera.cz",
+"orp": "Čáslav",
+"okres": "Kutná Hora",
+"kraj": "Středočeský kraj",
+"mestoSlug": "caslav",
+"okresSlug": "kutna-hora",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-31-roztoky",
+"cislo": "32.31",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "252 63",
+"mesto": "Roztoky",
+"ulice": "Přílepská 1909",
+"provozovatel": "Auto Holý s.r.o.",
+"telefon": "233910035",
+"email": "auto-holy@volny.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "roztoky",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-32-tuklaty",
+"cislo": "32.32",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "250 82",
+"mesto": "Tuklaty",
+"ulice": "Hlavní 182",
+"provozovatel": "TRILOBIT REAL s.r.o.",
+"telefon": "321622290",
+"email": "stk@trilobit-real.cz",
+"orp": "Český Brod",
+"okres": "Kolín",
+"kraj": "Středočeský kraj",
+"mestoSlug": "tuklaty",
+"okresSlug": "kolin",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-33-cechtice",
+"cislo": "32.33",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "257 65",
+"mesto": "Čechtice",
+"ulice": "Loket 52",
+"provozovatel": "PRP spol.s r.o.",
+"telefon": "317 866 060",
+"email": "stkloket@seznam.cz",
+"orp": "Vlašim",
+"okres": "Benešov",
+"kraj": "Středočeský kraj",
+"mestoSlug": "cechtice",
+"okresSlug": "benesov",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-34-mlada-boleslav",
+"cislo": "32.34",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "293 01",
+"mesto": "Mladá Boleslav",
+"ulice": "Havlíčkova 1432/II",
+"provozovatel": "STK - PECHA v.o.s.",
+"telefon": "326737780",
+"email": "STK3234@volny.cz",
+"orp": "Mladá Boleslav",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský kraj",
+"mestoSlug": "mlada-boleslav",
+"okresSlug": "mlada-boleslav",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-35-sedlcany",
+"cislo": "32.35",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "264 01",
+"mesto": "Sedlčany",
+"ulice": "Strojírenská 741",
+"provozovatel": "KASOKO, s.r.o.",
+"telefon": "318 820 810, 318 820 809",
+"email": "stksedlcany@volny.cz",
+"orp": "Sedlčany",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "sedlcany",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-36-dymokury",
+"cislo": "32.36",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "289 01",
+"mesto": "Dymokury",
+"ulice": "Nouzov 82",
+"provozovatel": "Karel Theer",
+"telefon": "325512484",
+"email": "stk.nouzov@seznam.cz",
+"orp": "Poděbrady",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "dymokury",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-37-vlasim",
+"cislo": "32.37",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "258 01",
+"mesto": "Vlašim",
+"ulice": "Průmyslová 1851",
+"provozovatel": "STK Divišov s.r.o.",
+"telefon": "317855313",
+"email": "info@stkvlasim.cz; schovanek@seznam.cz",
+"orp": "Vlašim",
+"okres": "Benešov",
+"kraj": "Středočeský kraj",
+"mestoSlug": "vlasim",
+"okresSlug": "benesov",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-38-velim",
+"cislo": "32.38",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "281 01",
+"mesto": "Velim",
+"ulice": "Palackého 94",
+"provozovatel": "STK Velim, a.s.",
+"telefon": "321762066",
+"email": "stkvelim@seznam.cz",
+"orp": "Kolín",
+"okres": "Kolín",
+"kraj": "Středočeský kraj",
+"mestoSlug": "velim",
+"okresSlug": "kolin",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-39-nove-straseci",
+"cislo": "32.39",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "271 01",
+"mesto": "Nové Strašecí",
+"ulice": "Průmyslová 1208",
+"provozovatel": "AR auto, s.r.o.",
+"telefon": "724 330 990",
+"email": "info@stknovestraseci.cz; info@arauto.cz",
+"orp": "Rakovník",
+"okres": "Rakovník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "nove-straseci",
+"okresSlug": "rakovnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-40-lysa-nad-labem",
+"cislo": "32.40",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "289 22",
+"mesto": "Lysá nad Labem",
+"ulice": "K Milovicům 1921",
+"provozovatel": "STK RAPTOR s.r.o",
+"telefon": "607206206",
+"email": "info@stklysa.cz",
+"orp": "Lysá nad Labem",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "lysa-nad-labem",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-41-pribram-v",
+"cislo": "32.41",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "261 01",
+"mesto": "Příbram V",
+"ulice": "Zdaboř 633",
+"provozovatel": "SeTeKoCAR s.r.o.",
+"telefon": "728358993",
+"email": "info@stkpribram.cz",
+"orp": "Příbram",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "pribram-v",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-42-kladno-dubi",
+"cislo": "32.42",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "272 03",
+"mesto": "Kladno - Dubí",
+"ulice": "Kročehlavská 1025",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "312538260",
+"email": "stk3242@seznam.cz",
+"orp": "Kladno",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kladno-dubi",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-43-dolni-brezany",
+"cislo": "32.43",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "252 41",
+"mesto": "Dolní Břežany",
+"ulice": "Pražská 830",
+"provozovatel": "Automobile Centre STK s.r.o.",
+"telefon": "722004004",
+"email": "info@stkdb.cz",
+"orp": "Černošice",
+"okres": "Praha-západ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "dolni-brezany",
+"okresSlug": "praha-zapad",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-46-kladno-svermov",
+"cislo": "32.46",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "273 09",
+"mesto": "Kladno - Švermov",
+"ulice": "28. října 1503",
+"provozovatel": "Měření 3D spol. s r.o.",
+"telefon": "603203106",
+"email": "info@stk-kladno.cz",
+"orp": "Kladno",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "kladno-svermov",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-47-brandys-nad-labem",
+"cislo": "32.47",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "250 01",
+"mesto": "Brandýs nad Labem",
+"ulice": "Karla Lípy 1678",
+"provozovatel": "Z-REHAB s.r.o.",
+"telefon": "733110430",
+"email": "stk3247@seznam.cz",
+"orp": "Brandýs nad Labem-Stará Boleslav",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "brandys-nad-labem",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-48-brandys-nad-labem",
+"cislo": "32.48",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "250 01",
+"mesto": "Brandýs nad Labem",
+"ulice": "Karla Lípy 1678",
+"provozovatel": "Z-REHAB s.r.o.",
+"telefon": "313033174",
+"email": "stk3248@seznam.cz",
+"orp": "Brandýs nad Labem",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "brandys-nad-labem",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-49-zasmuky",
+"cislo": "32.49",
+"druhy": [
+"OA",
+"TRA"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory"
+],
+"psc": "281 44",
+"mesto": "Zásmuky",
+"ulice": "pozemek p.č. 245/1 a 250/16",
+"provozovatel": "STK Zásmuky s.r.o.",
+"telefon": "601207503",
+"email": "info@stkzasmuky.cz",
+"orp": "Kolín",
+"okres": "Kolín",
+"kraj": "Středočeský kraj",
+"mestoSlug": "zasmuky",
+"okresSlug": "kolin",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-50-libeznice",
+"cislo": "32.50",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "250 65",
+"mesto": "Líbeznice",
+"ulice": "Mělnická 1060",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "735758085",
+"email": "stk3250@seznam.cz",
+"orp": "Brandýs nad Labem-Stará Boleslav",
+"okres": "Praha-východ",
+"kraj": "Středočeský kraj",
+"mestoSlug": "libeznice",
+"okresSlug": "praha-vychod",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-51-melnik",
+"cislo": "32.51",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "276 01",
+"mesto": "Mělník",
+"ulice": "Na Malém Spořilově 4151",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "312310720",
+"email": "stk3251@seznam.cz",
+"orp": "Mělník",
+"okres": "Mělník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "melnik",
+"okresSlug": "melnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-52-mlada-boleslav",
+"cislo": "32.52",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "293 01",
+"mesto": "Mladá Boleslav",
+"ulice": "Jičínská 414",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "315624925",
+"email": "stk3252@seznam.cz",
+"orp": "Mladá Boleslav",
+"okres": "Mladá Boleslav",
+"kraj": "Středočeský kraj",
+"mestoSlug": "mlada-boleslav",
+"okresSlug": "mlada-boleslav",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-32-53-horovice",
+"cislo": "32.53",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "268 01",
+"mesto": "Hořovice",
+"ulice": "Tyršova, parc. č. 1918/2",
+"provozovatel": "EKOtech Hořovice, s.r.o.",
+"telefon": "734638148",
+"email": "info.stk@ekotech-hr.cz",
+"orp": "Hořovice",
+"okres": "Beroun",
+"kraj": "Středočeský kraj",
+"mestoSlug": "horovice",
+"okresSlug": "beroun",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-62-04-melnik",
+"cislo": "62.04",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "276 01",
+"mesto": "Mělník",
+"ulice": "Na Průhoně 3412",
+"provozovatel": "METALTECH s.r.o.",
+"telefon": "315 628 666, 315 624  244",
+"email": "stk6204@seznam.cz",
+"orp": "Mělník",
+"okres": "Mělník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "melnik",
+"okresSlug": "melnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-62-50-slany",
+"cislo": "62.50",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "274 01",
+"mesto": "Slaný",
+"ulice": "Pražská 244",
+"provozovatel": "Petr Suchopárek",
+"telefon": "723568462",
+"email": "stk@suchoparek.cz",
+"orp": "Slaný",
+"okres": "Kladno",
+"kraj": "Středočeský kraj",
+"mestoSlug": "slany",
+"okresSlug": "kladno",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-62-51-sedlcany",
+"cislo": "62.51",
+"druhy": [
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "264 01",
+"mesto": "Sedlčany",
+"ulice": "Hermovo pole 1233",
+"provozovatel": "STK 4 you s.r.o.",
+"telefon": "602548765",
+"email": "jiri.binder@psota-znojmo.cz",
+"orp": "Sedlčany",
+"okres": "Příbram",
+"kraj": "Středočeský kraj",
+"mestoSlug": "sedlcany",
+"okresSlug": "pribram",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-62-52-mestec-kralove",
+"cislo": "62.52",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "289 03",
+"mesto": "Městec Králové",
+"ulice": "Pražská 744",
+"provozovatel": "A-STK s.r.o.",
+"telefon": "777926951",
+"email": "a-stk@a-stk.cz",
+"orp": "Poděbrady",
+"okres": "Nymburk",
+"kraj": "Středočeský kraj",
+"mestoSlug": "mestec-kralove",
+"okresSlug": "nymburk",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-62-53-melnicke-vtelno",
+"cislo": "62.53",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "277 38",
+"mesto": "Mělnické Vtelno",
+"ulice": "Vysoká Libeň p.č. 70/2",
+"provozovatel": "Jiří Bečvář",
+"telefon": "727807801",
+"email": "becvar.junior@seznam.cz",
+"orp": "Mělník",
+"okres": "Mělník",
+"kraj": "Středočeský kraj",
+"mestoSlug": "melnicke-vtelno",
+"okresSlug": "melnik",
+"krajSlug": "stredocesky-kraj"
+},
+{
+"slug": "stk-35-04-liberec",
+"cislo": "35.04",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "463 11",
+"mesto": "Liberec",
+"ulice": "Tanvaldská 1106",
+"provozovatel": "TKV Liberec spol. s r.o.",
+"telefon": "482737888",
+"email": "info@tkv-liberec.cz",
+"orp": "Liberec",
+"okres": "Liberec",
+"kraj": "Liberecký kraj",
+"mestoSlug": "liberec",
+"okresSlug": "liberec",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-12-novy-bor",
+"cislo": "35.12",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "473 01",
+"mesto": "Nový Bor",
+"ulice": "Liberecká 558",
+"provozovatel": "KLIMEX s.r.o.",
+"telefon": "487 754 637",
+"email": "novy.bor@stkcl.cz",
+"orp": "Nový Bor",
+"okres": "Česká Lípa",
+"kraj": "Liberecký kraj",
+"mestoSlug": "novy-bor",
+"okresSlug": "ceska-lipa",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-17-jablonec-nad-nisou",
+"cislo": "35.17",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "466 05",
+"mesto": "Jablonec nad Nisou",
+"ulice": "Želivského 1",
+"provozovatel": "eSTéKá spol. s r.o.",
+"telefon": "483 312 131",
+"email": "esteka.jbc@volny.cz",
+"orp": "Jablonec nad Nisou",
+"okres": "Jablonec nad Nisou",
+"kraj": "Liberecký kraj",
+"mestoSlug": "jablonec-nad-nisou",
+"okresSlug": "jablonec-nad-nisou",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-18-jablonec-nad-nisou",
+"cislo": "35.18",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "466 05",
+"mesto": "Jablonec nad Nisou",
+"ulice": "Belgická 5061",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "480003607",
+"email": "jablonecka.stk@seznam.cz",
+"orp": "Jablonec nad Nisou",
+"okres": "Jablonec nad Nisou",
+"kraj": "Liberecký kraj",
+"mestoSlug": "jablonec-nad-nisou",
+"okresSlug": "jablonec-nad-nisou",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-19-liberec",
+"cislo": "35.19",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "460 01",
+"mesto": "Liberec",
+"ulice": "Mrštíkova 2",
+"provozovatel": "STEKO LB, spol. s r.o.",
+"telefon": "485104111",
+"email": "stk@stkliberec.cz",
+"orp": "Liberec",
+"okres": "Liberec",
+"kraj": "Liberecký kraj",
+"mestoSlug": "liberec",
+"okresSlug": "liberec",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-22-ceska-lipa",
+"cislo": "35.22",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "470 06",
+"mesto": "Česká Lípa",
+"ulice": "Žitavská  3112",
+"provozovatel": "KLIMEX s.r.o.",
+"telefon": "487874683",
+"email": "ceska.lipa@stkcl.cz",
+"orp": "Česká Lípa",
+"okres": "Česká Lípa",
+"kraj": "Liberecký kraj",
+"mestoSlug": "ceska-lipa",
+"okresSlug": "ceska-lipa",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-25-ceska-lipa",
+"cislo": "35.25",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "470 01",
+"mesto": "Česká Lípa",
+"ulice": "Mánesova 1477",
+"provozovatel": "AUTORENOVA Plus s.r.o.",
+"telefon": "487868924",
+"email": "info@stkmanesova.cz",
+"orp": "Česká Lípa",
+"okres": "Česká Lípa",
+"kraj": "Liberecký kraj",
+"mestoSlug": "ceska-lipa",
+"okresSlug": "ceska-lipa",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-26-raspenava",
+"cislo": "35.26",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "464 01",
+"mesto": "Raspenava",
+"ulice": "Frýdlantská 772",
+"provozovatel": "FOLDA, s.r.o.",
+"telefon": "482 319 126",
+"email": "stk.3526@volny.cz",
+"orp": "Frýdlant",
+"okres": "Liberec",
+"kraj": "Liberecký kraj",
+"mestoSlug": "raspenava",
+"okresSlug": "liberec",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-28-ceska-lipa",
+"cislo": "35.28",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "470 01",
+"mesto": "Česká Lípa",
+"ulice": "Kovářova 3189",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "487831081",
+"email": "stk3528@seznam.cz",
+"orp": "Česká Lípa",
+"okres": "Česká Lípa",
+"kraj": "Liberecký kraj",
+"mestoSlug": "ceska-lipa",
+"okresSlug": "ceska-lipa",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-29-liberec-xi-ruzodol-i",
+"cislo": "35.29",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "460 01",
+"mesto": "Liberec XI-Růžodol I",
+"ulice": "Londýnská 590/85",
+"provozovatel": "KLIMEX s.r.o.",
+"telefon": "601159857",
+"email": "liberec@stkcl.cz",
+"orp": "Liberec",
+"okres": "Liberec",
+"kraj": "Liberecký kraj",
+"mestoSlug": "liberec-xi-ruzodol-i",
+"okresSlug": "liberec",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-30-cesky-dub",
+"cislo": "35.30",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "463 43",
+"mesto": "Český Dub",
+"ulice": "Sobotice 15",
+"provozovatel": "STK Český Dub s.r.o.",
+"telefon": "485147104",
+"email": "info@stk-ceskydub.cz",
+"orp": "Liberec",
+"okres": "Liberec",
+"kraj": "Liberecký kraj",
+"mestoSlug": "cesky-dub",
+"okresSlug": "liberec",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-36-17-turnov",
+"cislo": "36.17",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "511 01",
+"mesto": "Turnov",
+"ulice": "Nudvojovická 1681",
+"provozovatel": "STK Turnov, s.r.o.",
+"telefon": "481 325 637",
+"email": "stkturnov@tiscali.cz",
+"orp": "Turnov",
+"okres": "Semily",
+"kraj": "Liberecký kraj",
+"mestoSlug": "turnov",
+"okresSlug": "semily",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-36-21-vysoke-nad-jizerou",
+"cislo": "36.21",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "512 11",
+"mesto": "Vysoké nad Jizerou",
+"ulice": "Dr. Farského 300",
+"provozovatel": "Integrovaná střední škola",
+"telefon": "481 593 907",
+"email": "fsalda@iss-vysokenj.cz",
+"orp": "Semily",
+"okres": "Semily",
+"kraj": "Liberecký kraj",
+"mestoSlug": "vysoke-nad-jizerou",
+"okresSlug": "semily",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-36-37-jilemnice",
+"cislo": "36.37",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "514 01",
+"mesto": "Jilemnice",
+"ulice": "K Javorku 982",
+"provozovatel": "Jiří Machek - HYDROMA",
+"telefon": "481 545 300",
+"email": "stk.jilemnice@centrum.cz",
+"orp": "Jilemnice",
+"okres": "Semily",
+"kraj": "Liberecký kraj",
+"mestoSlug": "jilemnice",
+"okresSlug": "semily",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-65-14-brniste-jachymov-1",
+"cislo": "65.14",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "471 29",
+"mesto": "Brniště, Jáchymov 1",
+"ulice": "ZOD Brniště a.s.",
+"provozovatel": "Autoškola Hančín s.r.o.",
+"telefon": "606962014",
+"email": "pavel.lukasss@seznam.cz",
+"orp": "Česká Lípa",
+"okres": "Česká Lípa",
+"kraj": "Liberecký kraj",
+"mestoSlug": "brniste-jachymov-1",
+"okresSlug": "ceska-lipa",
+"krajSlug": "liberecky-kraj"
+},
+{
+"slug": "stk-35-01-krasna-lipa",
+"cislo": "35.01",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "407 46",
+"mesto": "Krásná Lípa",
+"ulice": "Alšova 1075/7",
+"provozovatel": "CENDIS s.p.",
+"telefon": "412383361",
+"email": "stk.krasnalipa@cspsd.cz",
+"orp": "Rumburk",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "krasna-lipa",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-02-decin",
+"cislo": "35.02",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "405 02",
+"mesto": "Děčín",
+"ulice": "Předmostí 1839/2",
+"provozovatel": "STK Děčín  35.02 a.s.",
+"telefon": "412 588 133",
+"email": "stk-decin@ford-homolka.cz",
+"orp": "Děčín",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "decin",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-03-podborany",
+"cislo": "35.03",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "441 01",
+"mesto": "Podbořany",
+"ulice": "Hlubanská 741",
+"provozovatel": "STK-Podbořany s.r.o.",
+"telefon": "415214362",
+"email": "stk.podborany@quick.cz",
+"orp": "Podbořany",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "podborany",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-05-litomerice",
+"cislo": "35.05",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "412 01",
+"mesto": "Litoměřice",
+"ulice": "U terez. křižovatky 176",
+"provozovatel": "S.T.K. Litoměřice s.r.o.",
+"telefon": "416739016",
+"email": "stk-ltm@iol.cz",
+"orp": "Litoměřice",
+"okres": "Litoměřice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "litomerice",
+"okresSlug": "litomerice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-06-most",
+"cislo": "35.06",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "434 01",
+"mesto": "Most",
+"ulice": "Budovatelů 624",
+"provozovatel": "AUTOPLUS II. CONTROL s.r.o.",
+"telefon": "606638455",
+"email": "stk3506@autoplusmost.cz",
+"orp": "Most",
+"okres": "Most",
+"kraj": "Ústecký kraj",
+"mestoSlug": "most",
+"okresSlug": "most",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-07-lubenec",
+"cislo": "35.07",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "439 83",
+"mesto": "Lubenec",
+"ulice": "Pražská 375",
+"provozovatel": "R + B Auto control, spol. s r.o.",
+"telefon": "415 212 296",
+"email": "stk.lubenec@seznam.cz",
+"orp": "Podbořany",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "lubenec",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-08-louny",
+"cislo": "35.08",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "440 01",
+"mesto": "Louny",
+"ulice": "Rybalkova 2765",
+"provozovatel": "STK  - O.K. CAR spol. s r.o.",
+"telefon": "415653467",
+"email": "stk.ok.car@iol.cz",
+"orp": "Louny",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "louny",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-09-klasterec-nad-ohri",
+"cislo": "35.09",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "431 51",
+"mesto": "Klášterec nad Ohří",
+"ulice": "Průmyslová zóna VERNE 12",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "474 331 421",
+"email": "alfa.technic.stk-k@iol.cz; stk.chomutov@seznam.cz",
+"orp": "Kadaň",
+"okres": "Chomutov",
+"kraj": "Ústecký kraj",
+"mestoSlug": "klasterec-nad-ohri",
+"okresSlug": "chomutov",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-10-chomutov",
+"cislo": "35.10",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "431 11",
+"mesto": "Chomutov",
+"ulice": "Otvice obchodní zóna 252",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "474 653 414",
+"email": "alfa.technic.stk@iol.cz",
+"orp": "Chomutov",
+"okres": "Chomutov",
+"kraj": "Ústecký kraj",
+"mestoSlug": "chomutov",
+"okresSlug": "chomutov",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-11-dubi-mstisov",
+"cislo": "35.11",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "417 03",
+"mesto": "Dubí - Mstišov",
+"ulice": "K Emance 291",
+"provozovatel": "IVESUR Česká republika a.s.",
+"telefon": "417571435",
+"email": "teplice@ivesurcesko.com",
+"orp": "Teplice",
+"okres": "Teplice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "dubi-mstisov",
+"okresSlug": "teplice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-13-roudnice-nad-labem",
+"cislo": "35.13",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "413 01",
+"mesto": "Roudnice nad Labem",
+"ulice": "Žižkova 2483",
+"provozovatel": "STK Roudnice n. L. s.r.o.",
+"telefon": "416831853",
+"email": "jransdorf@raz-dva.cz",
+"orp": "Roudnice nad Labem",
+"okres": "Litoměřice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "roudnice-nad-labem",
+"okresSlug": "litomerice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-14-zatec",
+"cislo": "35.14",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "438 01",
+"mesto": "Žatec",
+"ulice": "U Oharky 3093",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "415711258",
+"email": "info@stkzatec.cz",
+"orp": "Žatec",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "zatec",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-15-obrnice",
+"cislo": "35.15",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "434 01",
+"mesto": "Obrnice",
+"ulice": "České Zlatníky 87",
+"provozovatel": "AR auto s.r.o.",
+"telefon": "777490855",
+"email": "info@stkzlatniky.cz",
+"orp": "Most",
+"okres": "Most",
+"kraj": "Ústecký kraj",
+"mestoSlug": "obrnice",
+"okresSlug": "most",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-16-chlumec",
+"cislo": "35.16",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "403 39",
+"mesto": "Chlumec",
+"ulice": "Hrbovická 105",
+"provozovatel": "Terri, s.r.o.",
+"telefon": "736613093",
+"email": "stk.usti@terri.cz",
+"orp": "Ústí nad Labem",
+"okres": "Ústí nad Labem",
+"kraj": "Ústecký kraj",
+"mestoSlug": "chlumec",
+"okresSlug": "usti-nad-labem",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-20-janov",
+"cislo": "35.20",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "435 42",
+"mesto": "Janov",
+"ulice": "Podkrušnohorská 8",
+"provozovatel": "STK Janov s.r.o.",
+"telefon": "476741649",
+"email": "info@stkjanov.cz",
+"orp": "Litvínov",
+"okres": "Most",
+"kraj": "Ústecký kraj",
+"mestoSlug": "janov",
+"okresSlug": "most",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-21-sporice",
+"cislo": "35.21",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "431 01",
+"mesto": "Spořice",
+"ulice": "Spořice 480",
+"provozovatel": "HELVE s.r.o.",
+"telefon": "474623548",
+"email": "stksporice@seznam.cz",
+"orp": "Chomutov",
+"okres": "Chomutov",
+"kraj": "Ústecký kraj",
+"mestoSlug": "sporice",
+"okresSlug": "chomutov",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-23-usti-nad-labem",
+"cislo": "35.23",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "400 00",
+"mesto": "Ústí nad Labem",
+"ulice": "Havířská 360/29",
+"provozovatel": "B.K. syn CENTRUM s.r.o.",
+"telefon": "475504414",
+"email": "alexa@areal-uzin.cz",
+"orp": "Ústí nad Labem",
+"okres": "Ústí nad Labem",
+"kraj": "Ústecký kraj",
+"mestoSlug": "usti-nad-labem",
+"okresSlug": "usti-nad-labem",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-24-usti-nad-labem",
+"cislo": "35.24",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "400 01",
+"mesto": "Ústí nad Labem",
+"ulice": "Podhoří 361/2",
+"provozovatel": "STK Děčín 35.02 a.s.",
+"telefon": "475 316 934",
+"email": "stk@auto-homolka.cz",
+"orp": "Ústí nad Labem",
+"okres": "Ústí nad Labem",
+"kraj": "Ústecký kraj",
+"mestoSlug": "usti-nad-labem",
+"okresSlug": "usti-nad-labem",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-27-decin",
+"cislo": "35.27",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "405 02",
+"mesto": "Děčín",
+"ulice": "Oblouková 1416/9",
+"provozovatel": "S.T.K. Litoměřice s.r.o.",
+"telefon": "412589926",
+"email": "dc.stk@volny.cz",
+"orp": "Děčín",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "decin",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-31-teplice",
+"cislo": "35.31",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "415 01",
+"mesto": "Teplice",
+"ulice": "V Lipách 3275",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "417 535 386",
+"email": "stk3531@seznam.cz",
+"orp": "Teplice",
+"okres": "Teplice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "teplice",
+"okresSlug": "teplice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-32-litomerice",
+"cislo": "35.32",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "412 01",
+"mesto": "Litoměřice",
+"ulice": "U Trati 2213",
+"provozovatel": "IVESUR Česká republika a.s.",
+"telefon": "416535500",
+"email": "lito@ivesurcesko.com",
+"orp": "Litoměřice",
+"okres": "Litoměřice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "litomerice",
+"okresSlug": "litomerice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-33-varnsdorf",
+"cislo": "35.33",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "407 47",
+"mesto": "Varnsdorf",
+"ulice": "Strakonická 3242",
+"provozovatel": "Carmotive, s.r.o.",
+"telefon": "412358844",
+"email": "carmotive@seznam.cz",
+"orp": "Varnsdorf",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "varnsdorf",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-34-decin",
+"cislo": "35.34",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "405 38",
+"mesto": "Děčín",
+"ulice": "Folknářská, areál Armex Holding a.s.",
+"provozovatel": "ALL STK s.r.o.",
+"telefon": "739157405",
+"email": "m.adamcik@all.cz",
+"orp": "Děčín",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "decin",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-35-ceske-zlatniky",
+"cislo": "35.35",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "434 01",
+"mesto": "České Zlatníky",
+"ulice": "č. p. 283/2 a č. p. 87",
+"provozovatel": "Terri, s.r.o.",
+"telefon": "601245478",
+"email": "stk.zlatniky@terri.cz",
+"orp": "Most",
+"okres": "Most",
+"kraj": "Ústecký kraj",
+"mestoSlug": "ceske-zlatniky",
+"okresSlug": "most",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-36-udlice",
+"cislo": "35.36",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "431 41",
+"mesto": "Údlice",
+"ulice": "Droužkovická 476",
+"provozovatel": "Terri, s.r.o.",
+"telefon": "601245490",
+"email": "stk.udlice@terri.cz",
+"orp": "Chomutov",
+"okres": "Chomutov",
+"kraj": "Ústecký kraj",
+"mestoSlug": "udlice",
+"okresSlug": "chomutov",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-37-most",
+"cislo": "35.37",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "434 01",
+"mesto": "Most",
+"ulice": "Žatecká, pozemky 4496/2 a 14",
+"provozovatel": "Vladimír Fořt",
+"telefon": "603973687",
+"email": "info@stkzatecka.cz",
+"orp": "Most",
+"okres": "Most",
+"kraj": "Ústecký kraj",
+"mestoSlug": "most",
+"okresSlug": "most",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-35-38-lovosice",
+"cislo": "35.38",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "410 02",
+"mesto": "Lovosice",
+"ulice": "Terezínská 1306",
+"provozovatel": "OKIM spol. s r.o.",
+"telefon": "734541248",
+"email": "stk3538@okim.cz",
+"orp": "Lovosice",
+"okres": "Litoměřice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "lovosice",
+"okresSlug": "litomerice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-65-11-decin",
+"cislo": "65.11",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "407 41",
+"mesto": "Děčín",
+"ulice": "Dobrná 130",
+"provozovatel": "Pavlína Hanzlíková",
+"telefon": "606962014",
+"email": "pavel.lukasss@seznam.cz",
+"orp": "Děčín",
+"okres": "Děčín",
+"kraj": "Ústecký kraj",
+"mestoSlug": "decin",
+"okresSlug": "decin",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-65-12-libesice",
+"cislo": "65.12",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "411 45",
+"mesto": "Liběšice",
+"ulice": "Zimoř 8",
+"provozovatel": "Pavlína Hanzlíková",
+"telefon": "606962014",
+"email": "pavel.lukasss@seznam.cz",
+"orp": "Litoměřice",
+"okres": "Litoměřice",
+"kraj": "Ústecký kraj",
+"mestoSlug": "libesice",
+"okresSlug": "litomerice",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-65-15-krasny-dvur",
+"cislo": "65.15",
+"druhy": [
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "439 72",
+"mesto": "Krásný Dvůr",
+"ulice": "Krásný Dvůr 9",
+"provozovatel": "JA.VO. SERVIS s.r.o.",
+"telefon": "775236915",
+"email": "ing.v@seznam.cz",
+"orp": "Podbořany",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "krasny-dvur",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-65-16-rana",
+"cislo": "65.16",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "439 24",
+"mesto": "Raná",
+"ulice": "Raná 145",
+"provozovatel": "STK 4 you s.r.o.",
+"telefon": "602548765",
+"email": "stk.4you@psota-znojmo.cz",
+"orp": "Louny",
+"okres": "Louny",
+"kraj": "Ústecký kraj",
+"mestoSlug": "rana",
+"okresSlug": "louny",
+"krajSlug": "ustecky-kraj"
+},
+{
+"slug": "stk-34-02-sokolov",
+"cislo": "34.02",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "356 01",
+"mesto": "Sokolov",
+"ulice": "Citická 2069",
+"provozovatel": "STK Karlovarsko s.r.o.",
+"telefon": "352600063",
+"email": "stksokolov@seznam.cz",
+"orp": "Sokolov",
+"okres": "Sokolov",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "sokolov",
+"okresSlug": "sokolov",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-09-sadov",
+"cislo": "34.09",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "362 61",
+"mesto": "Sadov",
+"ulice": "Lesov ev.č. 8",
+"provozovatel": "TÜV NORD Czech, s.r.o.",
+"telefon": "353590219",
+"email": "stk-sadov@tuev-nord.cz",
+"orp": "Karlovy Vary",
+"okres": "Karlovy Vary",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "sadov",
+"okresSlug": "karlovy-vary",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-10-cheb",
+"cislo": "34.10",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "350 02",
+"mesto": "Cheb",
+"ulice": "Vrázova 2626/16",
+"provozovatel": "AUTO - O.K. s.r.o.",
+"telefon": "354439847",
+"email": "cheb@autook.cz",
+"orp": "Cheb",
+"okres": "Cheb",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "cheb",
+"okresSlug": "cheb",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-16-sokolov",
+"cislo": "34.16",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "356 01",
+"mesto": "Sokolov",
+"ulice": "Chebská 2239",
+"provozovatel": "Sokolovská STK s.r.o.",
+"telefon": "352467444",
+"email": "sokolovskastk@seznam.cz",
+"orp": "Sokolov",
+"okres": "Sokolov",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "sokolov",
+"okresSlug": "sokolov",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-17-marianske-lazne",
+"cislo": "34.17",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "353 01",
+"mesto": "Mariánské Lázně",
+"ulice": "Tepelská 551",
+"provozovatel": "AUTORENT SALON s.r.o.",
+"telefon": "354623084",
+"email": "stkml@iol.cz",
+"orp": "Mariánské Lázně",
+"okres": "Cheb",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "marianske-lazne",
+"okresSlug": "cheb",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-20-karlovy-vary",
+"cislo": "34.20",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "360 04",
+"mesto": "Karlovy Vary",
+"ulice": "Hroznětínská 402/4",
+"provozovatel": "TÜV NORD Czech, s.r.o.",
+"telefon": "353 449 475-6",
+"email": "stk-bohatice@tuev-nord.cz",
+"orp": "Karlovy Vary",
+"okres": "Karlovy Vary",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "karlovy-vary",
+"okresSlug": "karlovy-vary",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-21-touzim",
+"cislo": "34.21",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "364 01",
+"mesto": "Toužim",
+"ulice": "Plzeňská 575",
+"provozovatel": "F+T AUTO-TECHNIK s.r.o.",
+"telefon": "353311542",
+"email": "stktouzim@volny.cz",
+"orp": "Karlovy Vary",
+"okres": "Karlovy Vary",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "touzim",
+"okresSlug": "karlovy-vary",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-28-chodov",
+"cislo": "34.28",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "357 35",
+"mesto": "Chodov",
+"ulice": "Vintířovská 1119",
+"provozovatel": "Chodovská STK s.r.o.",
+"telefon": "602 449 989, 352 665 111",
+"email": "stkchodov@seznam.cz",
+"orp": "Sokolov",
+"okres": "Sokolov",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "chodov",
+"okresSlug": "sokolov",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-29-as",
+"cislo": "34.29",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "352 01",
+"mesto": "Aš",
+"ulice": "Anglická 2863",
+"provozovatel": "AUTO - O.K. s.r.o.",
+"telefon": "354595268",
+"email": "as@autook.cz",
+"orp": "Aš",
+"okres": "Cheb",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "as",
+"okresSlug": "cheb",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-34-jenisov",
+"cislo": "34.34",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "362 11",
+"mesto": "Jenišov",
+"ulice": "Daimlerova 271",
+"provozovatel": "STK Karlovarsko s.r.o.",
+"telefon": "353542121",
+"email": "stkjenisov@seznam.cz",
+"orp": "Karlovy Vary",
+"okres": "Karlovy Vary",
+"kraj": "Karlovarský kraj",
+"mestoSlug": "jenisov",
+"okresSlug": "karlovy-vary",
+"krajSlug": "karlovarsky-kraj"
+},
+{
+"slug": "stk-34-01-plzen",
+"cislo": "34.01",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "318 03",
+"mesto": "Plzeň",
+"ulice": "Domažlická 126",
+"provozovatel": "AUTOKOMPLET- servis Plzeň s.r.o.",
+"telefon": "377386776",
+"email": "stk@autokomplet91.cz",
+"orp": "Plzeň-město",
+"okres": "Plzeň-město",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "plzen",
+"okresSlug": "plzen-mesto",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-03-susice",
+"cislo": "34.03",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "342 01",
+"mesto": "Sušice",
+"ulice": "Čimice 77",
+"provozovatel": "Čimická STK s.r.o.",
+"telefon": "376596542",
+"email": "stk3403@autokalny.cz",
+"orp": "Sušice",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "susice",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-04-myto",
+"cislo": "34.04",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "338 05",
+"mesto": "Mýto",
+"ulice": "Plzeňská 569",
+"provozovatel": "STK Mýto s.r.o.",
+"telefon": "371 750 316",
+"email": "stk.myto@mybox.cz",
+"orp": "Rokycany",
+"okres": "Rokycany",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "myto",
+"okresSlug": "rokycany",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-06-klatovy",
+"cislo": "34.06",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "339 01",
+"mesto": "Klatovy",
+"ulice": "Domažlické předměstí 610",
+"provozovatel": "STK KLATOVY s.r.o.",
+"telefon": "376313938",
+"email": "janecek.tj@quick.cz",
+"orp": "Klatovy",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "klatovy",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-07-tachov",
+"cislo": "34.07",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "347 01",
+"mesto": "Tachov",
+"ulice": "Oldřichovská 1511",
+"provozovatel": "AutoKontrol - STK Tachov s.r.o.",
+"telefon": "374722753",
+"email": "stk34.07tc@quick.cz",
+"orp": "Tachov",
+"okres": "Tachov",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "tachov",
+"okresSlug": "tachov",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-08-horsovsky-tyn",
+"cislo": "34.08",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "346 01",
+"mesto": "Horšovský Týn",
+"ulice": "Nádražní 70",
+"provozovatel": "AUTO V-S spol. s.r.o.",
+"telefon": "379422728",
+"email": "stkhtyn@seznam.cz",
+"orp": "Horšovský Týn",
+"okres": "Domažlice",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "horsovsky-tyn",
+"okresSlug": "domazlice",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-11-plzen",
+"cislo": "34.11",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "326 00",
+"mesto": "Plzeň",
+"ulice": "Nepomucká 119",
+"provozovatel": "STK Nepomucká s.r.o.",
+"telefon": "377248811",
+"email": "info@stknepomucka.cz",
+"orp": "Plzeň-město",
+"okres": "Plzeň-město",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "plzen",
+"okresSlug": "plzen-mesto",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-12-klatovy",
+"cislo": "34.12",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "339 01",
+"mesto": "Klatovy",
+"ulice": "Dr.Sedláka 778",
+"provozovatel": "KLATOVSKÁ STK s.r.o.",
+"telefon": "376322332",
+"email": "klastk3412@investtel.cz",
+"orp": "Klatovy",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "klatovy",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-13-plzen",
+"cislo": "34.13",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "326 00",
+"mesto": "Plzeň",
+"ulice": "Koterovská 156a",
+"provozovatel": "PLZEŇSKÁ STK s.r.o.",
+"telefon": "377241224",
+"email": "suchy@stk-plzen.cz",
+"orp": "Plzeň-město",
+"okres": "Plzeň-město",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "plzen",
+"okresSlug": "plzen-mesto",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-14-blovice",
+"cislo": "34.14",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "336 01",
+"mesto": "Blovice",
+"ulice": "Fügnerova 404",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "371522754",
+"email": "info@stk-blovice.cz",
+"orp": "Blovice",
+"okres": "Plzeň-jih",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "blovice",
+"okresSlug": "plzen-jih",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-15-kaznejov",
+"cislo": "34.15",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "331 51",
+"mesto": "Kaznějov",
+"ulice": "Rybnice 155",
+"provozovatel": "STK Rybnice s.r.o.",
+"telefon": "373300539",
+"email": "uteseny@stk-rybnice.cz",
+"orp": "Kralovice",
+"okres": "Plzeň-sever",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "kaznejov",
+"okresSlug": "plzen-sever",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-18-myto",
+"cislo": "34.18",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "338 05",
+"mesto": "Mýto",
+"ulice": "Plzeňská  23",
+"provozovatel": "LINKA-STK MÝTO s.r.o.",
+"telefon": "371750598",
+"email": "stk.myto@tiscali.cz",
+"orp": "Rokycany",
+"okres": "Rokycany",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "myto",
+"okresSlug": "rokycany",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-19-domazlice",
+"cislo": "34.19",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "344 01",
+"mesto": "Domažlice",
+"ulice": "Chrastavice 111",
+"provozovatel": "KRČMA AUTO s.r.o.",
+"telefon": "379768242",
+"email": "stk@krcmaauto.cz",
+"orp": "Domažlice",
+"okres": "Domažlice",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "domazlice",
+"okresSlug": "domazlice",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-22-vejprnice",
+"cislo": "34.22",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "330 27",
+"mesto": "Vejprnice",
+"ulice": "Sokolská 705",
+"provozovatel": "AUTO LEPIČ, s.r.o.",
+"telefon": "377 826 767",
+"email": "stk.lepic@tiscali.cz",
+"orp": "Nýřany",
+"okres": "Plzeň-sever",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "vejprnice",
+"okresSlug": "plzen-sever",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-23-rokycany",
+"cislo": "34.23",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "337 01",
+"mesto": "Rokycany",
+"ulice": "Pivovarská 146",
+"provozovatel": "JIKE s.r.o.",
+"telefon": "371729715",
+"email": "stkrokycany@seznam.cz",
+"orp": "Rokycany",
+"okres": "Rokycany",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "rokycany",
+"okresSlug": "rokycany",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-24-horazdovice",
+"cislo": "34.24",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "341 01",
+"mesto": "Horažďovice",
+"ulice": "Tyršova 356",
+"provozovatel": "AUTO EDDY s.r.o.",
+"telefon": "721735704",
+"email": "stk@horazdovice.cz",
+"orp": "Horažďovice",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "horazdovice",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-25-kozlany",
+"cislo": "34.25",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "331 44",
+"mesto": "Kožlany",
+"ulice": "Kožlany 349",
+"provozovatel": "M-MEK s.r.o.",
+"telefon": "373396681",
+"email": "m.mourek@quick.cz",
+"orp": "Kralovice",
+"okres": "Plzeň-sever",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "kozlany",
+"okresSlug": "plzen-sever",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-27-prestice",
+"cislo": "34.27",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "334 01",
+"mesto": "Přeštice",
+"ulice": "Třída 1. máje 700",
+"provozovatel": "STK Přeštice s.r.o.",
+"telefon": "377982326",
+"email": "info@stkprestice.cz",
+"orp": "Přeštice",
+"okres": "Plzeň-jih",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "prestice",
+"okresSlug": "plzen-jih",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-30-klatovy",
+"cislo": "34.30",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "339 01",
+"mesto": "Klatovy",
+"ulice": "K Letišti 670",
+"provozovatel": "RAMALE s.r.o.",
+"telefon": "376313906",
+"email": "stk@autorb.cz",
+"orp": "Klatovy",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "klatovy",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-31-bor",
+"cislo": "34.31",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "348 02",
+"mesto": "Bor",
+"ulice": "Plzeňská 667",
+"provozovatel": "Miroslav Mansfeld",
+"telefon": "374625727",
+"email": "stk.mansfeld@atlas.cz",
+"orp": "Tachov",
+"okres": "Tachov",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "bor",
+"okresSlug": "tachov",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-32-susice",
+"cislo": "34.32",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "342 01",
+"mesto": "Sušice",
+"ulice": "Nádražní ulice 1302",
+"provozovatel": "Pavel Dražka",
+"telefon": "376323953",
+"email": "info@stksusice.cz",
+"orp": "Sušice",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "susice",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-34-33-stribro",
+"cislo": "34.33",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "349 01",
+"mesto": "Stříbro",
+"ulice": "Třída 5. května 1579",
+"provozovatel": "AUTO LEPIČ s.r.o.",
+"telefon": "374627999",
+"email": "stk.stribro@seznam.cz",
+"orp": "Stříbro",
+"okres": "Tachov",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "stribro",
+"okresSlug": "tachov",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-64-01-klatovy",
+"cislo": "64.01",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "339 01",
+"mesto": "Klatovy",
+"ulice": "Dr.Sedláka 779/III",
+"provozovatel": "STK AGRO, s.r.o.",
+"telefon": "376310627",
+"email": "stkagro@agrowest.com",
+"orp": "Klatovy",
+"okres": "Klatovy",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "klatovy",
+"okresSlug": "klatovy",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-64-09-blovice",
+"cislo": "64.09",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "336 01",
+"mesto": "Blovice",
+"ulice": "Jarov č.p. 162",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "371522754",
+"email": "info@stk-blovice.cz",
+"orp": "Blovice",
+"okres": "Plzeň-jih",
+"kraj": "Plzeňský kraj",
+"mestoSlug": "blovice",
+"okresSlug": "plzen-jih",
+"krajSlug": "plzensky-kraj"
+},
+{
+"slug": "stk-33-01-blatna",
+"cislo": "33.01",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "388 01",
+"mesto": "Blatná",
+"ulice": "Vrbenská 1526",
+"provozovatel": "STK Blatná, spol. s r. o.",
+"telefon": "383 422 706",
+"email": "stk.blatna@worldonline.cz",
+"orp": "Blatná",
+"okres": "Strakonice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "blatna",
+"okresSlug": "strakonice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-02-cesky-krumlov",
+"cislo": "33.02",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "382 01",
+"mesto": "Český Krumlov",
+"ulice": "Dolní Třebonín 195",
+"provozovatel": "KOMAT - STK s.r.o.",
+"telefon": "380 743 853, 606 620 320",
+"email": "stk@komat.cz",
+"orp": "Český Krumlov",
+"okres": "Český Krumlov",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "cesky-krumlov",
+"okresSlug": "cesky-krumlov",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-03-strakonice",
+"cislo": "33.03",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "386 01",
+"mesto": "Strakonice",
+"ulice": "Písecká 513",
+"provozovatel": "Stanice technické kontroly Strakonice s.r.o.",
+"telefon": "383 322 228",
+"email": "stk@srachta-autoservis.cz",
+"orp": "Strakonice",
+"okres": "Strakonice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "strakonice",
+"okresSlug": "strakonice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-04-sezimovo-usti",
+"cislo": "33.04",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "391 02",
+"mesto": "Sezimovo Ústí",
+"ulice": "Pod Kovosvitem 1135",
+"provozovatel": "STK Sezimovo Ústí spol. s r.o.",
+"telefon": "381291277",
+"email": "stksu@seznam.cz",
+"orp": "Tábor",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "sezimovo-usti",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-05-tabor",
+"cislo": "33.05",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "390 02",
+"mesto": "Tábor",
+"ulice": "Měšická 1993",
+"provozovatel": "PETA servis, spol. s r.o.",
+"telefon": "381254670",
+"email": "stkpeta@volny.cz",
+"orp": "Tábor",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "tabor",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-06-ceske-budejovice",
+"cislo": "33.06",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "370 01",
+"mesto": "České Budějovice",
+"ulice": "Rudolfovská 17",
+"provozovatel": "VOŠ, SPŠ automobilní a technická",
+"telefon": "386356589",
+"email": "stk@spsautocb.cz",
+"orp": "České Budějovice",
+"okres": "České Budějovice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "ceske-budejovice",
+"okresSlug": "ceske-budejovice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-07-ceske-budejovice",
+"cislo": "33.07",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "370 01",
+"mesto": "České Budějovice",
+"ulice": "Pekárenská 77",
+"provozovatel": "STK České Budějovice, s.r.o.",
+"telefon": "389 009 190-4",
+"email": "josef.trojan@stkcb.cz",
+"orp": "České Budějovice",
+"okres": "České Budějovice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "ceske-budejovice",
+"okresSlug": "ceske-budejovice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-08-jindrichuv-hradec",
+"cislo": "33.08",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "377 02",
+"mesto": "Jindřichův Hradec",
+"ulice": "Jarošovská 869/II",
+"provozovatel": "AR PARTNER s.r.o.",
+"telefon": "384321006",
+"email": "stk@arpartnerjh.cz",
+"orp": "Jindřichův Hradec",
+"okres": "Jindřichův Hradec",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "jindrichuv-hradec",
+"okresSlug": "jindrichuv-hradec",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-09-vodnany",
+"cislo": "33.09",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "389 01",
+"mesto": "Vodňany",
+"ulice": "Stožická 840",
+"provozovatel": "STK VODŇANY s.r.o.",
+"telefon": "383382522",
+"email": "stk@zaruba.cz",
+"orp": "Vodňany",
+"okres": "Strakonice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "vodnany",
+"okresSlug": "strakonice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-10-pisek",
+"cislo": "33.10",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "397 01",
+"mesto": "Písek",
+"ulice": "Hradišťská 2439",
+"provozovatel": "JIKONA STK s.r.o.",
+"telefon": "382 219 089",
+"email": "jikona@volny.cz",
+"orp": "Písek",
+"okres": "Písek",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "pisek",
+"okresSlug": "pisek",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-12-jindrichuv-hradec",
+"cislo": "33.12",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "377 01",
+"mesto": "Jindřichův Hradec",
+"ulice": "Jitka-Otín 3",
+"provozovatel": "AR TRUCK s.r.o.",
+"telefon": "384326717",
+"email": "stkjh@stkjh.cz",
+"orp": "Jindřichův Hradec",
+"okres": "Jindřichův Hradec",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "jindrichuv-hradec",
+"okresSlug": "jindrichuv-hradec",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-13-tyn-nad-vltavou",
+"cislo": "33.13",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "375 01",
+"mesto": "Týn nad Vltavou",
+"ulice": "Táborská 568",
+"provozovatel": "STK Týn nad Vltavou s.r.o.",
+"telefon": "385732608",
+"email": "stktyn@gmail.com",
+"orp": "Týn nad Vltavou",
+"okres": "České Budějovice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "tyn-nad-vltavou",
+"okresSlug": "ceske-budejovice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-14-tabor",
+"cislo": "33.14",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "390 02",
+"mesto": "Tábor",
+"ulice": "Pelhřimovská 2940",
+"provozovatel": "AUTA TEST s.r.o.",
+"telefon": "381 253 175",
+"email": "stk@stk-tabor.cz",
+"orp": "Tábor",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "tabor",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-15-vlachovo-brezi",
+"cislo": "33.15",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "384 22",
+"mesto": "Vlachovo Březí",
+"ulice": "Žižkova 117",
+"provozovatel": "Alena Ládová - DOZER s.r.o.",
+"telefon": "388320153",
+"email": "dozer.stk@cmail.cz",
+"orp": "Prachatice",
+"okres": "Prachatice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "vlachovo-brezi",
+"okresSlug": "prachatice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-17-vlachovo-brezi",
+"cislo": "33.17",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "384 22",
+"mesto": "Vlachovo Březí",
+"ulice": "Chlumany 100",
+"provozovatel": "Alena Ládová - DOZER s.r.o.",
+"telefon": "388320000",
+"email": "dozer.stk@cmail.cz",
+"orp": "Prachatice",
+"okres": "Prachatice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "vlachovo-brezi",
+"okresSlug": "prachatice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-18-pisek",
+"cislo": "33.18",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "397 01",
+"mesto": "Písek",
+"ulice": "U Hřebčince 2534",
+"provozovatel": "ATOS, s.r.o.",
+"telefon": "382212564",
+"email": "atospisek@volny.cz",
+"orp": "Písek",
+"okres": "Písek",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "pisek",
+"okresSlug": "pisek",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-19-milevsko",
+"cislo": "33.19",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "399 01",
+"mesto": "Milevsko",
+"ulice": "Hrejkovice 110",
+"provozovatel": "Tollinger s.r.o.",
+"telefon": "382211089",
+"email": "stk@tollingercz.cz",
+"orp": "Milevsko",
+"okres": "Písek",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "milevsko",
+"okresSlug": "pisek",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-20-ceske-budejovice",
+"cislo": "33.20",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "370 01",
+"mesto": "České Budějovice",
+"ulice": "Jindřicha Plachty 56/2606",
+"provozovatel": "Alena Ládová - DOZER s.r.o.",
+"telefon": "387314265",
+"email": "dozer.stk@cmail.cz",
+"orp": "České Budějovice",
+"okres": "České Budějovice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "ceske-budejovice",
+"okresSlug": "ceske-budejovice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-21-milevsko",
+"cislo": "33.21",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "399 01",
+"mesto": "Milevsko",
+"ulice": "Sažinova 1438",
+"provozovatel": "Jikona STK s.r.o.",
+"telefon": "382521013",
+"email": "stk_mil@volny.cz",
+"orp": "Milevsko",
+"okres": "Písek",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "milevsko",
+"okresSlug": "pisek",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-22-trebon",
+"cislo": "33.22",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "379 01",
+"mesto": "Třeboň",
+"ulice": "Jiráskova 1202",
+"provozovatel": "STK Kalivoda s.r.o.",
+"telefon": "384721865",
+"email": "stktrebon@tiscali.cz",
+"orp": "Třeboň",
+"okres": "Jindřichův Hradec",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "trebon",
+"okresSlug": "jindrichuv-hradec",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-23-sobeslav",
+"cislo": "33.23",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "392 01",
+"mesto": "Soběslav",
+"ulice": "Nová 514/II",
+"provozovatel": "PETA servis, spol. s r.o.",
+"telefon": "381 521 431",
+"email": "stkpetas@volny.cz",
+"orp": "Soběslav",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "sobeslav",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-24-sobeslav",
+"cislo": "33.24",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "392 01",
+"mesto": "Soběslav",
+"ulice": "Nová 515",
+"provozovatel": "STK Týn nad Vltavou s.r.o.",
+"telefon": "381 521 530",
+"email": "stksob@volny.cz",
+"orp": "Soběslav",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "sobeslav",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-25-prachatice",
+"cislo": "33.25",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "383 01",
+"mesto": "Prachatice",
+"ulice": "Vodňanská 964",
+"provozovatel": "Alena Ládová - DOZER s.r.o.",
+"telefon": "388310656",
+"email": "dozer.stk@cmail.cz",
+"orp": "Prachatice",
+"okres": "Prachatice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "prachatice",
+"okresSlug": "prachatice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-26-mirotice",
+"cislo": "33.26",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "398 01",
+"mesto": "Mirotice",
+"ulice": "Družstevní 335",
+"provozovatel": "STK Mirotice s.r.o.",
+"telefon": "382229094",
+"email": "stkmirotice@tiscali.cz",
+"orp": "Písek",
+"okres": "Písek",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "mirotice",
+"okresSlug": "pisek",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-27-kajov",
+"cislo": "33.27",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "382 21",
+"mesto": "Kájov",
+"ulice": "Křenov u Kájova parc. č. 265, areál BOXIT",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "380750995",
+"email": "stk3327@seznam.cz",
+"orp": "Český Krumlov",
+"okres": "Český Krumlov",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "kajov",
+"okresSlug": "cesky-krumlov",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-28-dacice",
+"cislo": "33.28",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "380 01",
+"mesto": "Dačice",
+"ulice": "Učňovská ulice bez č.p.",
+"provozovatel": "Měření 3D spol. s r.o.",
+"telefon": "770669540",
+"email": "info@dacickastk.cz",
+"orp": "Dačice",
+"okres": "Jindřichův Hradec",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "dacice",
+"okresSlug": "jindrichuv-hradec",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-33-29-vodnany",
+"cislo": "33.29",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "389 01",
+"mesto": "Vodňany",
+"ulice": "Číčenická 1192",
+"provozovatel": "STK VODŇANY s.r.o.",
+"telefon": "383382522",
+"email": "stk@stkvodnany.cz",
+"orp": "Vodňany",
+"okres": "Strakonice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "vodnany",
+"okresSlug": "strakonice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-63-02-smilovy-hory",
+"cislo": "63.02",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "391 43",
+"mesto": "Smilovy Hory",
+"ulice": "Stojslavice 4",
+"provozovatel": "SJP, spol. s r.o.",
+"telefon": "724008995",
+"email": "sjp@cbox.cz",
+"orp": "Tábor",
+"okres": "Tábor",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "smilovy-hory",
+"okresSlug": "tabor",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-63-04-trebon",
+"cislo": "63.04",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "382 32",
+"mesto": "Třeboň",
+"ulice": "Přesecká 164",
+"provozovatel": "REDD, s.r.o.",
+"telefon": "603714694",
+"email": "heral@tiscali.cz",
+"orp": "Kaplice",
+"okres": "Český Krumlov",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "trebon",
+"okresSlug": "cesky-krumlov",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-63-05-ceske-budejovice",
+"cislo": "63.05",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "370 01",
+"mesto": "České Budějovice",
+"ulice": "Homole  198",
+"provozovatel": "STK - SME traktory s.r.o.",
+"telefon": "387203193",
+"email": "stktraktory@sendme.cz",
+"orp": "České Budějovice",
+"okres": "České Budějovice",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "ceske-budejovice",
+"okresSlug": "ceske-budejovice",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-63-09-dacice",
+"cislo": "63.09",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "380 01",
+"mesto": "Dačice",
+"ulice": "parcela č. 530/6",
+"provozovatel": "AGILA spol. s.r.o.",
+"telefon": "384420012",
+"email": "agila.dacice@quick.cz",
+"orp": "Dačice",
+"okres": "Jindřichův Hradec",
+"kraj": "Jihočeský kraj",
+"mestoSlug": "dacice",
+"okresSlug": "jindrichuv-hradec",
+"krajSlug": "jihocesky-kraj"
+},
+{
+"slug": "stk-36-01-trutnov",
+"cislo": "36.01",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "541 02",
+"mesto": "Trutnov",
+"ulice": "Mladobucká 483",
+"provozovatel": "CENDIS s.p.",
+"telefon": "499 732 913, 499 732 912",
+"email": "stk.trutnov@cspsd.cz",
+"orp": "Trutnov",
+"okres": "Trutnov",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "trutnov",
+"okresSlug": "trutnov",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-06-jicin",
+"cislo": "36.06",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "506 01",
+"mesto": "Jičín",
+"ulice": "Hradecká 1122",
+"provozovatel": "AGRO SLATINY a.s.",
+"telefon": "493555055",
+"email": "stk@jicinet.cz",
+"orp": "Jičín",
+"okres": "Jičín",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "jicin",
+"okresSlug": "jicin",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-07-rychnov-nad-kneznou",
+"cislo": "36.07",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "516 01",
+"mesto": "Rychnov nad Kněžnou",
+"ulice": "Soukenická 242",
+"provozovatel": "STK Rychnov s.r.o.",
+"telefon": "494596255",
+"email": "info@stkrk.cz",
+"orp": "Rychnov nad Kněžnou",
+"okres": "Rychnov nad Kněžnou",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "rychnov-nad-kneznou",
+"okresSlug": "rychnov-nad-kneznou",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-08-nove-mesto-nad-metuji",
+"cislo": "36.08",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "549 01",
+"mesto": "Nové Město nad Metují",
+"ulice": "Krátká 419",
+"provozovatel": "DETECHA-chemické výrobní družstvo",
+"telefon": "491 470 314",
+"email": "stk@detecha.cz",
+"orp": "Nové Město nad Metují",
+"okres": "Náchod",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "nove-mesto-nad-metuji",
+"okresSlug": "nachod",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-09-hradec-kralove",
+"cislo": "36.09",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "500 02",
+"mesto": "Hradec Králové",
+"ulice": "Na Rybárně 203",
+"provozovatel": "OLFIN Car - STK s.r.o.",
+"telefon": "495 537 011",
+"email": "stk@olfincar.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "hradec-kralove",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-11-rychnov-nad-kneznou",
+"cislo": "36.11",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "516 01",
+"mesto": "Rychnov nad Kněžnou",
+"ulice": "Ekologická 348",
+"provozovatel": "FAMA - STK, s.r.o.",
+"telefon": "494533867",
+"email": "stkfama@iex.cz",
+"orp": "Rychnov nad Kněžnou",
+"okres": "Rychnov nad Kněžnou",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "rychnov-nad-kneznou",
+"okresSlug": "rychnov-nad-kneznou",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-14-ceska-skalice",
+"cislo": "36.14",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "552 03",
+"mesto": "Česká Skalice",
+"ulice": "Jiřinková 276",
+"provozovatel": "FARMET STK spol s r.o.",
+"telefon": "491452624",
+"email": "i.martinec@farmet.cz",
+"orp": "Náchod",
+"okres": "Náchod",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "ceska-skalice",
+"okresSlug": "nachod",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-15-jicin",
+"cislo": "36.15",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "506 01",
+"mesto": "Jičín",
+"ulice": "Průmyslová 1256",
+"provozovatel": "AGRO SLATINY a.s.",
+"telefon": "493522434",
+"email": "stk.nakladni.jicin@quick.cz",
+"orp": "Jičín",
+"okres": "Jičín",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "jicin",
+"okresSlug": "jicin",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-18-hradec-kralove",
+"cislo": "36.18",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "500 03",
+"mesto": "Hradec Králové",
+"ulice": "Bratří Štefanů 492",
+"provozovatel": "Regina, a.s.",
+"telefon": "495544875",
+"email": "stk@medis.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "hradec-kralove",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-23-nachod",
+"cislo": "36.23",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "547 01",
+"mesto": "Náchod",
+"ulice": "Dobenínská 2014",
+"provozovatel": "Autotest-TKMV, s.r.o.",
+"telefon": "491421859",
+"email": "stk36.23nachod@tiscali.cz",
+"orp": "Náchod",
+"okres": "Náchod",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "nachod",
+"okresSlug": "nachod",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-24-dvur-kralove-nad-labem",
+"cislo": "36.24",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "544 01",
+"mesto": "Dvůr Králové nad Labem",
+"ulice": "Nedbalova 573",
+"provozovatel": "DEKRA CZ  a.s.",
+"telefon": "499 622 506, 499 320 540",
+"email": "stkdk@dekra.cz",
+"orp": "Dvůr Králové nad Labem",
+"okres": "Trutnov",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "dvur-kralove-nad-labem",
+"okresSlug": "trutnov",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-27-smirice",
+"cislo": "36.27",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "503 03",
+"mesto": "Smiřice",
+"ulice": "Seligerova 147",
+"provozovatel": "KUTÍK STK, spol. s r.o.",
+"telefon": "495 421 828",
+"email": "kutik.stk@tiscali.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "smirice",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-30-nechanice",
+"cislo": "36.30",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "503 15",
+"mesto": "Nechanice",
+"ulice": "Sovětice 19",
+"provozovatel": "STK Sovětice CZ, s.r.o.",
+"telefon": "495446127",
+"email": "stksovetice@centrum.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "nechanice",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-31-rychnov-nad-kneznou",
+"cislo": "36.31",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "516 01",
+"mesto": "Rychnov nad Kněžnou",
+"ulice": "Solnice-Ještětice 110",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "494596441",
+"email": "stk-jestetice@dekra-automobil.cz",
+"orp": "Rychnov nad Kněžnou",
+"okres": "Rychnov nad Kněžnou",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "rychnov-nad-kneznou",
+"okresSlug": "rychnov-nad-kneznou",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-35-vrchlabi",
+"cislo": "36.35",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "543 01",
+"mesto": "Vrchlabí",
+"ulice": "Na Bělidle 1652",
+"provozovatel": "MJ Vrchlabí spol. s r.o.",
+"telefon": "499692899",
+"email": "stk.vrchlabi@centrum.cz",
+"orp": "Vrchlabí",
+"okres": "Trutnov",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "vrchlabi",
+"okresSlug": "trutnov",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-36-chlumec-nad-cidlinou",
+"cislo": "36.36",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "503 51",
+"mesto": "Chlumec nad Cidlinou",
+"ulice": "Pražská 782/IV",
+"provozovatel": "PRO AUTO LOUDA s.r.o.",
+"telefon": "731657827",
+"email": "stk.chlumec@tiscali.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "chlumec-nad-cidlinou",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-38-novy-bydzov",
+"cislo": "36.38",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "503 51",
+"mesto": "Nový Bydžov",
+"ulice": "Jungmanova 1736",
+"provozovatel": "AGRO SLATINY a.s.",
+"telefon": "495490198",
+"email": "stk.novy.bydzov@quick.cz",
+"orp": "Nový Bydžov",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "novy-bydzov",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-39-trebechovice-pod-orebem",
+"cislo": "36.39",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "503 46",
+"mesto": "Třebechovice pod Orebem",
+"ulice": "Pardubická 1338",
+"provozovatel": "amcontrol s.r.o.",
+"telefon": "495591283",
+"email": "amcontrol@centrum.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "trebechovice-pod-orebem",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-40-trutnov",
+"cislo": "36.40",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "541 01",
+"mesto": "Trutnov",
+"ulice": "Horská 932",
+"provozovatel": "STK Trutnov s.r.o.",
+"telefon": "499309199",
+"email": "stk@stk-trutnov.cz",
+"orp": "Trutnov",
+"okres": "Trutnov",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "trutnov",
+"okresSlug": "trutnov",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-41-jetrichov",
+"cislo": "36.41",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "549 83",
+"mesto": "Jetřichov",
+"ulice": "Meziměstí 3",
+"provozovatel": "KUTÍK STK, spol. s r.o.",
+"telefon": "491582041",
+"email": "kutik.stk.jetrichov@seznam.cz",
+"orp": "Broumov",
+"okres": "Náchod",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "jetrichov",
+"okresSlug": "nachod",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-45-rychnov-nad-kneznou",
+"cislo": "36.45",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "516 01",
+"mesto": "Rychnov nad Kněžnou",
+"ulice": "Pod Budínem 1699",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "494 620 226",
+"email": "stk-rychnov@dekra-automobil.cz",
+"orp": "Rychnov nad Kněžnou",
+"okres": "Rychnov nad Kněžnou",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "rychnov-nad-kneznou",
+"okresSlug": "rychnov-nad-kneznou",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-48-nova-paka",
+"cislo": "36.48",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "509 01",
+"mesto": "Nová Paka",
+"ulice": "Kumburský Újezd čp. 90",
+"provozovatel": "All Cars Nová Paka s.r.o.",
+"telefon": "725699599",
+"email": "info@stknp.cz",
+"orp": "Nová Paka",
+"okres": "Jičín",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "nova-paka",
+"okresSlug": "jicin",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-51-hradec-kralove",
+"cislo": "36.51",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "500 02",
+"mesto": "Hradec Králové",
+"ulice": "Plotiště nad Labem u ČKD",
+"provozovatel": "A-STK s.r.o.",
+"telefon": "777926951",
+"email": "a-stk@a-stk.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "hradec-kralove",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-66-03-hlusice",
+"cislo": "66.03",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "503 56",
+"mesto": "Hlušice",
+"ulice": "Hlušice 1",
+"provozovatel": "Střední škola technická a řemeslná, Nový Bydžov",
+"telefon": "495 483 421",
+"email": "sou.hlusice@worldonline.cz",
+"orp": "Nový Bydžov",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "hlusice",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-66-17-lhota-pod-libcany",
+"cislo": "66.17",
+"druhy": [
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "503 27",
+"mesto": "Lhota pod Libčany",
+"ulice": "Roudnice, p.č. 161/18 a 161/1",
+"provozovatel": "A-STK s.r.o.",
+"telefon": "777926951",
+"email": "leon@a-stk.cz",
+"orp": "Hradec Králové",
+"okres": "Hradec Králové",
+"kraj": "Královéhradecký kraj",
+"mestoSlug": "lhota-pod-libcany",
+"okresSlug": "hradec-kralove",
+"krajSlug": "kralovehradecky-kraj"
+},
+{
+"slug": "stk-36-04-ceska-trebova",
+"cislo": "36.04",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "560 02",
+"mesto": "Česká Třebová",
+"ulice": "Podbranská 2047",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "465531007",
+"email": "stkct@seznam.cz",
+"orp": "Česká Třebová",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "ceska-trebova",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-05-chrudim",
+"cislo": "36.05",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "537 01",
+"mesto": "Chrudim",
+"ulice": "Vlčnov 30",
+"provozovatel": "STK Chrudim s.r.o.",
+"telefon": "722110011",
+"email": "stkchrudim@seznam.cz",
+"orp": "Chrudim",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "chrudim",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-10-pardubice",
+"cislo": "36.10",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "533 53",
+"mesto": "Pardubice",
+"ulice": "Hradišťská 551",
+"provozovatel": "Autokontrol Pardubice s.r.o.",
+"telefon": "466415536",
+"email": "info@autokontrol.cz",
+"orp": "Pardubice",
+"okres": "Pardubice",
+"kraj": "Pardubický kraj",
+"mestoSlug": "pardubice",
+"okresSlug": "pardubice",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-12-svitavy",
+"cislo": "36.12",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "568 02",
+"mesto": "Svitavy",
+"ulice": "Petrusova 2",
+"provozovatel": "STK SVITAVY s.r.o.",
+"telefon": "461534195",
+"email": "stk.svitavy@tiscali.cz",
+"orp": "Svitavy",
+"okres": "Svitavy",
+"kraj": "Pardubický kraj",
+"mestoSlug": "svitavy",
+"okresSlug": "svitavy",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-13-usti-nad-orlici",
+"cislo": "36.13",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "562 03",
+"mesto": "Ústí nad Orlicí",
+"ulice": "Třebovská 348",
+"provozovatel": "Střední škola automobilní Ústí nad Orlicí",
+"telefon": "468002669",
+"email": "bartos@skola-auto.cz",
+"orp": "Ústí nad Orlicí",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "usti-nad-orlici",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-16-svitavy",
+"cislo": "36.16",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "568 02",
+"mesto": "Svitavy",
+"ulice": "V Zahrádkách 2366/23",
+"provozovatel": "ZDAR, a.s.",
+"telefon": "461 532 664",
+"email": "stk.svitavy@autokontrol.cz",
+"orp": "Svitavy",
+"okres": "Svitavy",
+"kraj": "Pardubický kraj",
+"mestoSlug": "svitavy",
+"okresSlug": "svitavy",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-19-pardubice",
+"cislo": "36.19",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "533 01",
+"mesto": "Pardubice",
+"ulice": "Průmyslová 381",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "466 670 165",
+"email": "stk-zadina@volny.cz",
+"orp": "Pardubice",
+"okres": "Pardubice",
+"kraj": "Pardubický kraj",
+"mestoSlug": "pardubice",
+"okresSlug": "pardubice",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-20-chrudim",
+"cislo": "36.20",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "537 01",
+"mesto": "Chrudim",
+"ulice": "Dašická 248",
+"provozovatel": "Z-MOTOR s.r.o.",
+"telefon": "469 626 117",
+"email": "stk@z-motor.cz",
+"orp": "Chrudim",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "chrudim",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-22-pardubice",
+"cislo": "36.22",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "533 54",
+"mesto": "Pardubice",
+"ulice": "Semtín 100",
+"provozovatel": "FONTES STK s.r.o.",
+"telefon": "466 415 861",
+"email": "fontesstk@volny.cz",
+"orp": "Pardubice",
+"okres": "Pardubice",
+"kraj": "Pardubický kraj",
+"mestoSlug": "pardubice",
+"okresSlug": "pardubice",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-25-vysoke-myto",
+"cislo": "36.25",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "566 01",
+"mesto": "Vysoké Mýto",
+"ulice": "Vraclavská 523",
+"provozovatel": "AUTOTEST-STK Vysoké Mýto s.r.o.",
+"telefon": "465420738",
+"email": "stk.vysokemyto@email.cz",
+"orp": "Vysoké Mýto",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "vysoke-myto",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-28-jablonne-nad-orlici",
+"cislo": "36.28",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "561 64",
+"mesto": "Jablonné nad Orlicí",
+"ulice": "U Koupaliště 180",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "465 642 945",
+"email": "machacek@dekra.cz",
+"orp": "Žamberk",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "jablonne-nad-orlici",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-32-hlinsko",
+"cislo": "36.32",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "539 01",
+"mesto": "Hlinsko",
+"ulice": "Poličská 1365",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "469312003",
+"email": "stk-hlinsko@dekra-automobil.cz",
+"orp": "Hlinsko",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "hlinsko",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-33-usti-nad-orlici",
+"cislo": "36.33",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "562 06",
+"mesto": "Ústí nad Orlicí",
+"ulice": "Letohradská 100",
+"provozovatel": "STK Ústí s.r.o.",
+"telefon": "465520174",
+"email": "info@stkusti.cz",
+"orp": "Ústí nad Orlicí",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "usti-nad-orlici",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-34-skutec",
+"cislo": "36.34",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "539 73",
+"mesto": "Skuteč",
+"ulice": "Vilibalda Svobody 948",
+"provozovatel": "STK Vincenci s.r.o.",
+"telefon": "469351210",
+"email": "stkvincenci@seznam.cz",
+"orp": "Chrudim",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "skutec",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-42-vysoke-myto",
+"cislo": "36.42",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "566 01",
+"mesto": "Vysoké Mýto",
+"ulice": "Vračovice 1",
+"provozovatel": "STK a SME Vračovice s.r.o.",
+"telefon": "465320634",
+"email": "stk.vracovice@vysokemyto.cz",
+"orp": "Vysoké Mýto",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "vysoke-myto",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-43-pardubice",
+"cislo": "36.43",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "533 52",
+"mesto": "Pardubice",
+"ulice": "Fáblovka 404",
+"provozovatel": "Autocheck s.r.o.",
+"telefon": "466 265 323",
+"email": "info@stk-autocheck.cz",
+"orp": "Pardubice",
+"okres": "Pardubice",
+"kraj": "Pardubický kraj",
+"mestoSlug": "pardubice",
+"okresSlug": "pardubice",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-44-svitavy",
+"cislo": "36.44",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "568 02",
+"mesto": "Svitavy",
+"ulice": "Dimitrovova 2",
+"provozovatel": "Suitta STK spol. s r.o.",
+"telefon": "325409911",
+"email": "stksvitavy@louda.cz",
+"orp": "Svitavy",
+"okres": "Svitavy",
+"kraj": "Pardubický kraj",
+"mestoSlug": "svitavy",
+"okresSlug": "svitavy",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-46-moravska-trebova",
+"cislo": "36.46",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "571 01",
+"mesto": "Moravská Třebová",
+"ulice": "Svitavská 1610",
+"provozovatel": "ABERA spol. s r.o.",
+"telefon": "461315566",
+"email": "mt@abera.cz",
+"orp": "Moravská Třebová",
+"okres": "Svitavy",
+"kraj": "Pardubický kraj",
+"mestoSlug": "moravska-trebova",
+"okresSlug": "svitavy",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-36-47-chrudim",
+"cislo": "36.47",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "537 03",
+"mesto": "Chrudim",
+"ulice": "Obce Ležáků 758",
+"provozovatel": "SALIO s.r.o.",
+"telefon": "469318192",
+"email": "info@stk-salio.cz",
+"orp": "Chrudim",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "chrudim",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-66-04-chornice",
+"cislo": "66.04",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "569 42",
+"mesto": "Chornice",
+"ulice": "Trnavská 50",
+"provozovatel": "I. Českomorav. obch. společnost s.r.o.",
+"telefon": "461 322 068",
+"email": "cemos@seznam.cz",
+"orp": "Moravská Třebová",
+"okres": "Svitavy",
+"kraj": "Pardubický kraj",
+"mestoSlug": "chornice",
+"okresSlug": "svitavy",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-66-16-letohrad",
+"cislo": "66.16",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "561 51",
+"mesto": "Letohrad",
+"ulice": "Orlice 282",
+"provozovatel": "Ing. Karel Maňas",
+"telefon": "724059122",
+"email": "karelmanas@centrum.cz",
+"orp": "Žamberk",
+"okres": "Ústí nad Orlicí",
+"kraj": "Pardubický kraj",
+"mestoSlug": "letohrad",
+"okresSlug": "usti-nad-orlici",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-66-18-slatinany",
+"cislo": "66.18",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "53821",
+"mesto": "Slatiňany",
+"ulice": "Kunčí 32",
+"provozovatel": "STK EURO s.r.o.",
+"telefon": "725511934",
+"email": "stkeurosro@gmail.com",
+"orp": "Chrudim",
+"okres": "Chrudim",
+"kraj": "Pardubický kraj",
+"mestoSlug": "slatinany",
+"okresSlug": "chrudim",
+"krajSlug": "pardubicky-kraj"
+},
+{
+"slug": "stk-33-11-pelhrimov",
+"cislo": "33.11",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "393 01",
+"mesto": "Pelhřimov",
+"ulice": "Skrýšovská 1968",
+"provozovatel": "STK PELHŘIMOV spol. s r.o.",
+"telefon": "565323110",
+"email": "stk@stkpelhrimov.cz",
+"orp": "Pelhřimov",
+"okres": "Pelhřimov",
+"kraj": "Vysočina",
+"mestoSlug": "pelhrimov",
+"okresSlug": "pelhrimov",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-33-16-humpolec",
+"cislo": "33.16",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "396 01",
+"mesto": "Humpolec",
+"ulice": "Pelhřimovská 738",
+"provozovatel": "STK Humpolec s.r.o.",
+"telefon": "565533491",
+"email": "stk.humpolec@tiscali.cz",
+"orp": "Humpolec",
+"okres": "Pelhřimov",
+"kraj": "Vysočina",
+"mestoSlug": "humpolec",
+"okresSlug": "pelhrimov",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-33-30-pelhrimov",
+"cislo": "33.30",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "393 01",
+"mesto": "Pelhřimov",
+"ulice": "Krasíkovická č.p. 1787",
+"provozovatel": "Manora s.r.o.",
+"telefon": "732298733",
+"email": "stk3330@seznam.cz",
+"orp": "Pelhřimov",
+"okres": "Pelhřimov",
+"kraj": "Vysočina",
+"mestoSlug": "pelhrimov",
+"okresSlug": "pelhrimov",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-36-03-havlickuv-brod",
+"cislo": "36.03",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "580 01",
+"mesto": "Havlíčkův Brod",
+"ulice": "Lidická 3974",
+"provozovatel": "STK HB s.r.o.",
+"telefon": "569429900",
+"email": "stkhb@stkhb.cz",
+"orp": "Havlíčkův Brod",
+"okres": "Havlíčkův Brod",
+"kraj": "Vysočina",
+"mestoSlug": "havlickuv-brod",
+"okresSlug": "havlickuv-brod",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-36-26-havlickuv-brod",
+"cislo": "36.26",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "580 01",
+"mesto": "Havlíčkův Brod",
+"ulice": "Baštinov 126",
+"provozovatel": "STK NOVÁK HB s.r.o.",
+"telefon": "569 438 200",
+"email": "mnovak@stknovak.cz",
+"orp": "Havlíčkův Brod",
+"okres": "Havlíčkův Brod",
+"kraj": "Vysočina",
+"mestoSlug": "havlickuv-brod",
+"okresSlug": "havlickuv-brod",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-36-29-chotebor",
+"cislo": "36.29",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "583 01",
+"mesto": "Chotěboř",
+"ulice": "U Střelnice 1724",
+"provozovatel": "STK Chotěboř, s.r.o.",
+"telefon": "569621286",
+"email": "technickakontrola3629@seznam.cz",
+"orp": "Chotěboř",
+"okres": "Havlíčkův Brod",
+"kraj": "Vysočina",
+"mestoSlug": "chotebor",
+"okresSlug": "havlickuv-brod",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-36-49-svetla-nad-sazavou",
+"cislo": "36.49",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "582 91",
+"mesto": "Světlá nad Sázavou",
+"ulice": "Zahrádecká 987",
+"provozovatel": "STK Světlá nad Sázavou, v.o.s.",
+"telefon": "607844508",
+"email": "stksvetla@seznam.cz",
+"orp": "Světlá nad Sázavou",
+"okres": "Havlíčkův Brod",
+"kraj": "Vysočina",
+"mestoSlug": "svetla-nad-sazavou",
+"okresSlug": "havlickuv-brod",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-01-trebic",
+"cislo": "37.01",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "674 01",
+"mesto": "Třebíč",
+"ulice": "Brněnská 123",
+"provozovatel": "KTS-Třebíč s.r.o.",
+"telefon": "568821571",
+"email": "kts3701@volny.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "trebic",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-06-velke-mezirici",
+"cislo": "37.06",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "594 01",
+"mesto": "Velké Meziříčí",
+"ulice": "Jestřábec 2044",
+"provozovatel": "STK Velké Meziříčí s.r.o.",
+"telefon": "566521170",
+"email": "stk3706@cbox.cz",
+"orp": "Velké Meziříčí",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "velke-mezirici",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-09-jihlava",
+"cislo": "37.09",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "586 01",
+"mesto": "Jihlava",
+"ulice": "Znojemská 82",
+"provozovatel": "STK Jihlava a.s.",
+"telefon": "567309544",
+"email": "kadlec@stkjihlava.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "jihlava",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-11-trebic",
+"cislo": "37.11",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "674 01",
+"mesto": "Třebíč",
+"ulice": "Průmyslová čtvrť 154",
+"provozovatel": "TRADO-STK, s.r.o.",
+"telefon": "568 833 379",
+"email": "stk@trado.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "trebic",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-14-jihlava",
+"cislo": "37.14",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "586 01",
+"mesto": "Jihlava",
+"ulice": "Brtnická 23",
+"provozovatel": "DOPRAVNÍ PODNIK MĚSTA JIHLAVY, a.s.",
+"telefon": "567 301 325",
+"email": "stkdpmj@volny.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "jihlava",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-24-zdar-nad-sazavou",
+"cislo": "37.24",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "591 01",
+"mesto": "Žďár nad Sázavou",
+"ulice": "Jihlavská 759/4",
+"provozovatel": "ZDAR, a.s.",
+"telefon": "566629708",
+"email": "stkzr@seznam.cz",
+"orp": "Žďár nad Sázavou",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "zdar-nad-sazavou",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-30-moravske-budejovice",
+"cislo": "37.30",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ADR",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"vozidla ADR",
+"zvláštní vozidla"
+],
+"psc": "676 02",
+"mesto": "Moravské Budějovice",
+"ulice": "Lažínky 71",
+"provozovatel": "Smetana a Smetana s.r.o.",
+"telefon": "568420332",
+"email": "stk.smetana@atlas.cz",
+"orp": "Moravské Budějovice",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "moravske-budejovice",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-33-nove-veseli",
+"cislo": "37.33",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "592 14",
+"mesto": "Nové Veselí",
+"ulice": "Žďárská 311",
+"provozovatel": "STK Nové Veselí, s.r.o.",
+"telefon": "566 667 075",
+"email": "stk37.33@unet.cz",
+"orp": "Žďár nad Sázavou",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "nove-veseli",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-41-kralice-nad-oslavou",
+"cislo": "37.41",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "675 71",
+"mesto": "Kralice nad Oslavou",
+"ulice": "Nad Kralickým kopcem 307",
+"provozovatel": "Pavel Dvořák",
+"telefon": "568620279",
+"email": "stkdvorak@gmail.com",
+"orp": "Náměšť nad Oslavou",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "kralice-nad-oslavou",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-46-lipnik",
+"cislo": "37.46",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "675 52",
+"mesto": "Lipník",
+"ulice": "Dolní Vilémovice 148",
+"provozovatel": "STK Dolní Vilémovice, s.r.o.",
+"telefon": "568862060",
+"email": "info@stkvilemovice.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "lipnik",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-52-trebic",
+"cislo": "37.52",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "674 01",
+"mesto": "Třebíč",
+"ulice": "Na Nivkách 305",
+"provozovatel": "STK Automoto TŘEBÍČ s.r.o.",
+"telefon": "568 821 680",
+"email": "info@stk-trebic.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "trebic",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-53-telc",
+"cislo": "37.53",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "588 56",
+"mesto": "Telč",
+"ulice": "Radkovská 230",
+"provozovatel": "Opravny Telč, a.s.",
+"telefon": "567213005",
+"email": "stk@opravnytelc.cz",
+"orp": "Telč",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "telc",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-55-dlouha-brtnice",
+"cislo": "37.55",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "588 34",
+"mesto": "Dlouhá Brtnice",
+"ulice": "Dlouhá Brtnice 165",
+"provozovatel": "AUTOCONTROL, spol. s r.o.",
+"telefon": "567 210 627",
+"email": "info@autocontrol.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "dlouha-brtnice",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-63-jihlava",
+"cislo": "37.63",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "586 01",
+"mesto": "Jihlava",
+"ulice": "Žižkova 5428/120",
+"provozovatel": "Lenka Hosová",
+"telefon": "567212919",
+"email": "stk.jihlava@iex.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "jihlava",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-64-okrisky",
+"cislo": "37.64",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "675 21",
+"mesto": "Okříšky",
+"ulice": "Jihlavská 595",
+"provozovatel": "TZ Auto, s.r.o.",
+"telefon": "564034836",
+"email": "info@stkokrisky.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "okrisky",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-65-jihlava",
+"cislo": "37.65",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "669 02",
+"mesto": "Jihlava",
+"ulice": "Mlýnská 60",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "567213645",
+"email": "stk3765@seznam.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "jihlava",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-74-bystrice-nad-pernstejnem",
+"cislo": "37.74",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "593 01",
+"mesto": "Bystřice nad Pernštejnem",
+"ulice": "Vírská 1510",
+"provozovatel": "Měření 3D spol. s r.o.",
+"telefon": "773884755",
+"email": "info@stk-bystrice.cz",
+"orp": "Bystřice nad Pernštejnem",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "bystrice-nad-pernstejnem",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-66-19-havlickuv-brod",
+"cislo": "66.19",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "588 45",
+"mesto": "Havlíčkův Brod",
+"ulice": "Poděbaby 188",
+"provozovatel": "STK 4 you s.r.o.",
+"telefon": "602548765",
+"email": "stk.vedouci@psota-znojmo.cz",
+"orp": "Havlíčkův brod",
+"okres": "Havlíčkův Brod",
+"kraj": "Vysočina",
+"mestoSlug": "havlickuv-brod",
+"okresSlug": "havlickuv-brod",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-67-11-dolni-cerekev",
+"cislo": "67.11",
+"druhy": [
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "588 45",
+"mesto": "Dolní Cerekev",
+"ulice": "Dolní Cerekev 276",
+"provozovatel": "Z.T.K. - AGRO s.r.o.",
+"telefon": "777646497",
+"email": "STK6711@centrum.cz",
+"orp": "Jihlava",
+"okres": "Jihlava",
+"kraj": "Vysočina",
+"mestoSlug": "dolni-cerekev",
+"okresSlug": "jihlava",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-67-17-zdar-nad-sazavou",
+"cislo": "67.17",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "591 01",
+"mesto": "Žďár nad Sázavou",
+"ulice": "Mělkovice 1",
+"provozovatel": "AGRO - Měřín, a.s.",
+"telefon": "566 615 393",
+"email": "hana.jurackova@agro-merin.cz",
+"orp": "Žďár nad Sázavou",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "zdar-nad-sazavou",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-67-21-trebic",
+"cislo": "67.21",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "674 01",
+"mesto": "Třebíč",
+"ulice": "Žďárského 183",
+"provozovatel": "Střední průmyslová škola Třebíč",
+"telefon": "568 840 237, 568 842 251",
+"email": "souztr@razdva.cz",
+"orp": "Třebíč",
+"okres": "Třebíč",
+"kraj": "Vysočina",
+"mestoSlug": "trebic",
+"okresSlug": "trebic",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-67-25-velke-mezirici",
+"cislo": "67.25",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "594 01",
+"mesto": "Velké Meziříčí",
+"ulice": "Horní Radslavice 51",
+"provozovatel": "VK TRAKTOR s.r.o.",
+"telefon": "608029201",
+"email": "vktraktor@seznam.cz",
+"orp": "Velké Meziříčí",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "velke-mezirici",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-67-44-strazek",
+"cislo": "67.44",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "592 53",
+"mesto": "Strážek",
+"ulice": "Strážek 172",
+"provozovatel": "Miroslav Uhlíř",
+"telefon": "728403000",
+"email": "autoservis.uhlir@seznam.cz",
+"orp": "Bystřice nad Pernštejnem",
+"okres": "Žďár nad Sázavou",
+"kraj": "Vysočina",
+"mestoSlug": "strazek",
+"okresSlug": "zdar-nad-sazavou",
+"krajSlug": "vysocina"
+},
+{
+"slug": "stk-37-07-kunstat",
+"cislo": "37.07",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "679 72",
+"mesto": "Kunštát",
+"ulice": "Palackého 154",
+"provozovatel": "STK OA s.r.o.",
+"telefon": "516462184",
+"email": "stk.oa@tiscali.cz",
+"orp": "Boskovice",
+"okres": "Blansko",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "kunstat",
+"okresSlug": "blansko",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-10-brno",
+"cislo": "37.10",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "614 00",
+"mesto": "Brno",
+"ulice": "Kulkova 30",
+"provozovatel": "AZ SERVIS STK, s.r.o.",
+"telefon": "541 213 822",
+"email": "stk37.10@tiscali.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-15-brno",
+"cislo": "37.15",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "612 00",
+"mesto": "Brno",
+"ulice": "Sladkovského 7",
+"provozovatel": "STK Královo Pole, s.r.o.",
+"telefon": "541 212 116, 541 519 420",
+"email": "stk-brno@volny.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-16-brno",
+"cislo": "37.16",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "618 00",
+"mesto": "Brno",
+"ulice": "Hájecká 14",
+"provozovatel": "ČSAD Brno-Černovice a.s.",
+"telefon": "548122402",
+"email": "stk3716@best-transport.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-17-hrusovany-nad-jevisovkou",
+"cislo": "37.17",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "671 67",
+"mesto": "Hrušovany nad Jevišovkou",
+"ulice": "Nádražní ulice č. 389",
+"provozovatel": "STK-SME Hrušovany s.r.o.",
+"telefon": "606077787",
+"email": "karel.psota@psota-znojmo.cz",
+"orp": "Znojmo",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "hrusovany-nad-jevisovkou",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-18-skalice-nad-svitavou",
+"cislo": "37.18",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "679 01",
+"mesto": "Skalice nad Svitavou",
+"ulice": "Skalice nad Svitavou 169",
+"provozovatel": "MJM agro, a.s.",
+"telefon": "516469381",
+"email": "agroakcia@tiscali.cz",
+"orp": "Boskovice",
+"okres": "Blansko",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "skalice-nad-svitavou",
+"okresSlug": "blansko",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-20-hodonin",
+"cislo": "37.20",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "695 01",
+"mesto": "Hodonín",
+"ulice": "Měšťanská 4339/146A",
+"provozovatel": "ESTEKO a.s.",
+"telefon": "518351102",
+"email": "esteko@quick.cz",
+"orp": "Hodonín",
+"okres": "Hodonín",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "hodonin",
+"okresSlug": "hodonin",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-21-hustopece",
+"cislo": "37.21",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "693 01",
+"mesto": "Hustopeče",
+"ulice": "Hybešova 14",
+"provozovatel": "INTERTEC s.r.o.",
+"telefon": "519 402 840, 519 402 841",
+"email": "hlavka@agrotec.cz",
+"orp": "Břeclav",
+"okres": "Břeclav",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "hustopece",
+"okresSlug": "breclav",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-22-brno",
+"cislo": "37.22",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "662 93",
+"mesto": "Brno",
+"ulice": "Opavská 26/8",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "543 217 079, 542 154 471",
+"email": "stk-brno@dekra.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-25-slavkov-u-brna",
+"cislo": "37.25",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "684 01",
+"mesto": "Slavkov u Brna",
+"ulice": "Čs. armády 217",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "544220044",
+"email": "stk.slavkov@seznam.cz",
+"orp": "Slavkov u Brna",
+"okres": "Vyškov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "slavkov-u-brna",
+"okresSlug": "vyskov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-26-kurim",
+"cislo": "37.26",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "664 34",
+"mesto": "Kuřim",
+"ulice": "Tišnovská 1968/33",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "541210437",
+"email": "stkkurim@seznam.cz",
+"orp": "Kuřim",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "kurim",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-28-boskovice",
+"cislo": "37.28",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "680 01",
+"mesto": "Boskovice",
+"ulice": "Dřevařská 2250",
+"provozovatel": "Auto STK  spol.s.r.o.",
+"telefon": "516453191",
+"email": "tlamka.stk@quick.cz",
+"orp": "Boskovice",
+"okres": "Blansko",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "boskovice",
+"okresSlug": "blansko",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-31-tisnov",
+"cislo": "37.31",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "666 01",
+"mesto": "Tišnov",
+"ulice": "Za Mlýnem 5",
+"provozovatel": "KORAL s.r.o.",
+"telefon": "549 411 700, 549 410 189",
+"email": "malaskova@koral.biz",
+"orp": "Tišnov",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "tisnov",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-34-lednice",
+"cislo": "37.34",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "691 44",
+"mesto": "Lednice",
+"ulice": "Nejdecká 719",
+"provozovatel": "STK AUTO LEDNICE s.r.o.",
+"telefon": "519340646",
+"email": "sbuzrla@autowozar.cz",
+"orp": "Břeclav",
+"okres": "Břeclav",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "lednice",
+"okresSlug": "breclav",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-35-rosice",
+"cislo": "37.35",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "665 01",
+"mesto": "Rosice",
+"ulice": "Brněnská 1242",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "546410475",
+"email": "stk3735@seznam.cz",
+"orp": "Rosice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "rosice",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-36-blansko",
+"cislo": "37.36",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "678 01",
+"mesto": "Blansko",
+"ulice": "Poříčí 17",
+"provozovatel": "TOP 1 spol. s r.o.",
+"telefon": "516 410 510, 516 410 511",
+"email": "stkblansko@iol.cz",
+"orp": "Blansko",
+"okres": "Blansko",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "blansko",
+"okresSlug": "blansko",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-37-kyjov",
+"cislo": "37.37",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "697 01",
+"mesto": "Kyjov",
+"ulice": "Boršovská 2622/91",
+"provozovatel": "STK Kyjov s.r.o",
+"telefon": "518615140",
+"email": "stkkyjov@wo.cz",
+"orp": "Kyjov",
+"okres": "Hodonín",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "kyjov",
+"okresSlug": "hodonin",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-40-veseli-nad-moravou",
+"cislo": "37.40",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "698 26",
+"mesto": "Veselí nad Moravou",
+"ulice": "Masarykova 1663",
+"provozovatel": "ESTEKO a.s.",
+"telefon": "518 324 460",
+"email": "stkveseli@esteko.cz",
+"orp": "Veselí nad Moravou",
+"okres": "Hodonín",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "veseli-nad-moravou",
+"okresSlug": "hodonin",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-47-pohorelice",
+"cislo": "37.47",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "691 23",
+"mesto": "Pohořelice",
+"ulice": "Brněnská 1019",
+"provozovatel": "Ing. Pavel Kurimai",
+"telefon": "519424710",
+"email": "stk-kurimai@volny.cz",
+"orp": "Pohořelice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "pohorelice",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-48-vyskov",
+"cislo": "37.48",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "682 01",
+"mesto": "Vyškov",
+"ulice": "Průmyslová 591/1",
+"provozovatel": "Stavební konstrukce Vyškov a.s.",
+"telefon": "517341956",
+"email": "cerny@stk-vyskov.cz",
+"orp": "Vyškov",
+"okres": "Vyškov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "vyskov",
+"okresSlug": "vyskov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-49-moravsky-krumlov",
+"cislo": "37.49",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "672 01",
+"mesto": "Moravský Krumlov",
+"ulice": "Okružní 399",
+"provozovatel": "STK Moravský Krumlov s.r.o.",
+"telefon": "722922299",
+"email": "stk@stk-mk.cz",
+"orp": "Moravský Krumlov",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "moravsky-krumlov",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-51-znojmo",
+"cislo": "37.51",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "669 02",
+"mesto": "Znojmo",
+"ulice": "Dobšická 3697/6",
+"provozovatel": "STK 4 you s.r.o.",
+"telefon": "537020666",
+"email": "STK.3751@seznam.cz",
+"orp": "Znojmo",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "znojmo",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-54-brno",
+"cislo": "37.54",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "619 00",
+"mesto": "Brno",
+"ulice": "Vídeňská 267/106d",
+"provozovatel": "STK BRNO s.r.o.",
+"telefon": "547 212 875, 547 212 884",
+"email": "stkbrno@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-56-brno",
+"cislo": "37.56",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "625 00",
+"mesto": "Brno",
+"ulice": "Jihlavská 29",
+"provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+"telefon": "547 211 202",
+"email": "stk3756@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-57-brno",
+"cislo": "37.57",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "627 00",
+"mesto": "Brno",
+"ulice": "Řípská 11e",
+"provozovatel": "STK SLATINA, a.s.",
+"telefon": "533 440 180, 606 424 960",
+"email": "stk@stkslatina.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-58-jirikovice",
+"cislo": "37.58",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "664 51",
+"mesto": "Jiříkovice",
+"ulice": "Rohlenka 250",
+"provozovatel": "STK Jiříkovice, s.r.o.",
+"telefon": "544212101",
+"email": "stkjirikovice@powercars.cz",
+"orp": "Šlapanice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "jirikovice",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-59-tetcice",
+"cislo": "37.59",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "664 17",
+"mesto": "Tetčice",
+"ulice": "Palackého 379",
+"provozovatel": "DAJAN spol. s r.o.",
+"telefon": "546213856",
+"email": "stktetcice@seznam.cz",
+"orp": "Rosice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "tetcice",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-60-zbraslav",
+"cislo": "37.60",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "664 84",
+"mesto": "Zbraslav",
+"ulice": "Zbraslav 448",
+"provozovatel": "Stanislav Pelant",
+"telefon": "546 213 323",
+"email": "pelantstanislav@seznam.cz",
+"orp": "Rosice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "zbraslav",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-61-brno",
+"cislo": "37.61",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "619 00",
+"mesto": "Brno",
+"ulice": "K terminálu 700/1",
+"provozovatel": "STK Heršpice s.r.o.",
+"telefon": "543213549",
+"email": "stkherspice@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-62-modrice",
+"cislo": "37.62",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "664 42",
+"mesto": "Modřice",
+"ulice": "Brněnská 404",
+"provozovatel": "STK MODŘICE s.r.o.",
+"telefon": "724555666",
+"email": "stk@stkmodrice.cz",
+"orp": "Šlapanice",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "modrice",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-66-znojmo",
+"cislo": "37.66",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "669 02",
+"mesto": "Znojmo",
+"ulice": "Dobšická 2483/6",
+"provozovatel": "STK Znojmo, s.r.o.",
+"telefon": "515230688",
+"email": "stk.znojmo@psota-znojmo.cz",
+"orp": "Znojmo",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "znojmo",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-69-brno-lisen",
+"cislo": "37.69",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "628 00",
+"mesto": "Brno - Líšeň",
+"ulice": "Trnkova 2785",
+"provozovatel": "AMEX spol. s r. o.",
+"telefon": "544213702",
+"email": "stk3769@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno-lisen",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-70-brno-cernovice",
+"cislo": "37.70",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "618 00",
+"mesto": "Brno - Černovice",
+"ulice": "Olomoucká 1283/156c",
+"provozovatel": "INSPEKT CAR s.r.o.",
+"telefon": "603735482",
+"email": "inspektcar@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno-cernovice",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-72-brno-cernovice",
+"cislo": "37.72",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "614 00",
+"mesto": "Brno - Černovice",
+"ulice": "Olomoucká ul. č.p. 1292",
+"provozovatel": "STK Olomoucká s.r.o.",
+"telefon": "773770055",
+"email": "stkolomoucka@seznam.cz",
+"orp": "Brno-město",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno-cernovice",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-73-breclav",
+"cislo": "37.73",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "690 02",
+"mesto": "Břeclav",
+"ulice": "Lidická 1711/3",
+"provozovatel": "STK-SME Břeclav s.r.o.",
+"telefon": "601601611",
+"email": "stk.breclav@psota-znojmo.cz",
+"orp": "Břeclav",
+"okres": "Břeclav",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "breclav",
+"okresSlug": "breclav",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-75-kasnice",
+"cislo": "37.75",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "691 72",
+"mesto": "Kašnice",
+"ulice": "Kašnice 63",
+"provozovatel": "SBD 23 s.r.o.",
+"telefon": "725973039",
+"email": "info@stkkasnice.cz",
+"orp": "Hustopeče",
+"okres": "Břeclav",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "kasnice",
+"okresSlug": "breclav",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-76-bucovice",
+"cislo": "37.76",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "685 01",
+"mesto": "Bučovice",
+"ulice": "Ždánská 906",
+"provozovatel": "AUTO SLAVKOV s.r.o.",
+"telefon": "770388748",
+"email": "stk.bucovice@email.cz",
+"orp": "Bučovice",
+"okres": "Vyškov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "bucovice",
+"okresSlug": "vyskov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-14-brno",
+"cislo": "67.14",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "627 00",
+"mesto": "Brno",
+"ulice": "Řípská 11e",
+"provozovatel": "TRAKTEC s.r.o.",
+"telefon": "602733276",
+"email": "tresime@seznam.cz",
+"orp": "Brno",
+"okres": "Brno-město",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "brno",
+"okresSlug": "brno-mesto",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-23-znojmo",
+"cislo": "67.23",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "669 04",
+"mesto": "Znojmo",
+"ulice": "Přímětice 604",
+"provozovatel": "Hájek a Peš s,r,o",
+"telefon": "603 879 847",
+"email": "stk67.23znojmo@seznam.cz",
+"orp": "Znojmo",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "znojmo",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-32-kurim",
+"cislo": "67.32",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "664 34",
+"mesto": "Kuřim",
+"ulice": "areál HERBASTAR s.r.o., Tišnovská 305",
+"provozovatel": "Ing. Karel Maňas",
+"telefon": "724059122",
+"email": "karelmanas@centrum.cz",
+"orp": "Kuřim",
+"okres": "Brno-venkov",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "kurim",
+"okresSlug": "brno-venkov",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-40-breclav",
+"cislo": "67.40",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "690 81",
+"mesto": "Břeclav",
+"ulice": "Sovadinova 8",
+"provozovatel": "ELISAR CENTRUM s.r.o.",
+"telefon": "606134006",
+"email": "elisarcentrum@seznam.cz",
+"orp": "Břeclav",
+"okres": "Břeclav",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "breclav",
+"okresSlug": "breclav",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-43-boritov",
+"cislo": "67.43",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "679 21",
+"mesto": "Bořitov",
+"ulice": "Úvoz 326",
+"provozovatel": "STK KLVAČ s.r.o.",
+"telefon": "774557666",
+"email": "stkklvac@seznam.cz",
+"orp": "Blansko",
+"okres": "Blansko",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "boritov",
+"okresSlug": "blansko",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-67-45-blizkovice",
+"cislo": "67.45",
+"druhy": [
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "671 55",
+"mesto": "Blížkovice",
+"ulice": "Blížkovice 325",
+"provozovatel": "DS BYT s.r.o.",
+"telefon": "602144332",
+"email": "dubicka@dubicka.cz",
+"orp": "Znojmo",
+"okres": "Znojmo",
+"kraj": "Jihomoravský kraj",
+"mestoSlug": "blizkovice",
+"okresSlug": "znojmo",
+"krajSlug": "jihomoravsky-kraj"
+},
+{
+"slug": "stk-37-02-prostejov",
+"cislo": "37.02",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "796 86",
+"mesto": "Prostějov",
+"ulice": "Letecká 2",
+"provozovatel": "STKm Prostějov s.r.o.",
+"telefon": "582343614",
+"email": "dadak@mechanikapv.cz",
+"orp": "Prostějov",
+"okres": "Prostějov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "prostejov",
+"okresSlug": "prostejov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-37-23-prostejov",
+"cislo": "37.23",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "796 07",
+"mesto": "Prostějov",
+"ulice": "Za Olomouckou ul., ar.DS",
+"provozovatel": "STK nákladních vozidel Olomouc, s.r.o.",
+"telefon": "582365959",
+"email": "stk-prostejov@volny.cz",
+"orp": "Prostějov",
+"okres": "Prostějov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "prostejov",
+"okresSlug": "prostejov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-37-42-konice",
+"cislo": "37.42",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "798 52",
+"mesto": "Konice",
+"ulice": "Vrchlického 349",
+"provozovatel": "STATEKON s.r.o.",
+"telefon": "582396048",
+"email": "statekon@tiscali.cz",
+"orp": "Konice",
+"okres": "Prostějov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "konice",
+"okresSlug": "prostejov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-01-jesenik",
+"cislo": "38.01",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "790 01",
+"mesto": "Jeseník",
+"ulice": "Slunná 98",
+"provozovatel": "SLUŽBY BPK s.r.o.",
+"telefon": "584401332",
+"email": "stk@sluzby-bpk.cz",
+"orp": "Jeseník",
+"okres": "Jeseník",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "jesenik",
+"okresSlug": "jesenik",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-02-sumperk",
+"cislo": "38.02",
+"druhy": [
+"OA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "787 01",
+"mesto": "Šumperk",
+"ulice": "Žerotínova 3403/44",
+"provozovatel": "ABA STKáčko s.r.o.",
+"telefon": "583213800",
+"email": "abastk@spk.cz",
+"orp": "Šumperk",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "sumperk",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-03-sternberk",
+"cislo": "38.03",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "785 01",
+"mesto": "Šternberk",
+"ulice": "Litovelská 14",
+"provozovatel": "ŠTERNBERSKÁ STK s.r.o.",
+"telefon": "585012674",
+"email": "stk.sternberk@volny.cz",
+"orp": "Šternberk",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "sternberk",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-04-olomouc",
+"cislo": "38.04",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "779 00",
+"mesto": "Olomouc",
+"ulice": "Lazecká 70a",
+"provozovatel": "STK AUTOL OLOMOUC, s.r.o.",
+"telefon": "585 222 484",
+"email": "autolstk@volny.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-06-jesenik",
+"cislo": "38.06",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "790 01",
+"mesto": "Jeseník",
+"ulice": "U Bělidla 3/926",
+"provozovatel": "PEMI CAR TEST, spol. s r.o.",
+"telefon": "584 411 104",
+"email": "pemi.car@tiscali.cz",
+"orp": "Jeseník",
+"okres": "Jeseník",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "jesenik",
+"okresSlug": "jesenik",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-07-sumperk",
+"cislo": "38.07",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "787 01",
+"mesto": "Šumperk",
+"ulice": "Žerotínova 63",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "583212821",
+"email": "sumperk@testcar.cz",
+"orp": "Šumperk",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "sumperk",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-12-prerov",
+"cislo": "38.12",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "750 13",
+"mesto": "Přerov",
+"ulice": "Lověšice 258/III",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "581209536",
+"email": "prerov@testcar.cz",
+"orp": "Přerov",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "prerov",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-13-hranice",
+"cislo": "38.13",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "753 61",
+"mesto": "Hranice",
+"ulice": "Hranická 505",
+"provozovatel": "ELEKTRO-LUMEN, s.r.o.",
+"telefon": "581 699 426 - 7",
+"email": "stk@el-lumen.cz",
+"orp": "Hranice",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "hranice",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-18-olomouc",
+"cislo": "38.18",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "779 00",
+"mesto": "Olomouc",
+"ulice": "Hamerská 883/5a",
+"provozovatel": "STK nákladních vozidel Olomouc s.r.o.",
+"telefon": "585311627",
+"email": "stk-olomouc@volny.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-26-prerov",
+"cislo": "38.26",
+"druhy": [
+"OA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "751 24",
+"mesto": "Přerov",
+"ulice": "Teličkova 35",
+"provozovatel": "KOVET spol. s r.o.",
+"telefon": "581 211 845, 581 702 314",
+"email": "kovet@volny.cz",
+"orp": "Přerov",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "prerov",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-35-zabreh",
+"cislo": "38.35",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "789 01",
+"mesto": "Zábřeh",
+"ulice": "Na Křtaltě 37",
+"provozovatel": "FRANOTRANS s.r.o.",
+"telefon": "583411238",
+"email": "frano.trans@iol.cz, stk3835@seznam.cz",
+"orp": "Zábřeh",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "zabreh",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-36-olomouc-hodolany",
+"cislo": "38.36",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "772 00",
+"mesto": "Olomouc - Hodolany",
+"ulice": "Smetanova 192",
+"provozovatel": "DIZIONARIO s.r.o.",
+"telefon": "585226100",
+"email": "info@stk-olomouc.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc-hodolany",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-39-zabreh",
+"cislo": "38.39",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "789 13",
+"mesto": "Zábřeh",
+"ulice": "Lesnická 2179/2a",
+"provozovatel": "Autocentrum Zábřeh s.r.o.",
+"telefon": "583499499",
+"email": "kasparj@stkzabreh.cz",
+"orp": "Zábřeh",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "zabreh",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-43-olomouc",
+"cislo": "38.43",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "779 00",
+"mesto": "Olomouc",
+"ulice": "Slavonínská 5",
+"provozovatel": "EURO - PROFICAR s.r.o.",
+"telefon": "585 414 608",
+"email": "stk.eurocar@seznam.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-44-sumperk",
+"cislo": "38.44",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "787 01",
+"mesto": "Šumperk",
+"ulice": "Jesenická 3071/1D",
+"provozovatel": "Expres Commercio s.r.o.",
+"telefon": "583222200",
+"email": "exprescom.stk@seznam.cz",
+"orp": "Šumperk",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "sumperk",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-46-litovel",
+"cislo": "38.46",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "784 01",
+"mesto": "Litovel",
+"ulice": "Příčná 1269/11",
+"provozovatel": "J&J Kreuzberg spol. s r.o.",
+"telefon": "585 341 253, 585 343 096",
+"email": "vladimir.jasek@iex.cz",
+"orp": "Litovel",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "litovel",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-47-lipnik-nad-becvou",
+"cislo": "38.47",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "751 31",
+"mesto": "Lipník nad Bečvou",
+"ulice": "Na Zelince 1537",
+"provozovatel": "Kovet spol. s.r.o.",
+"telefon": "581701737",
+"email": "stklipnik@kovet.cz",
+"orp": "Lipník nad Bečvou",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "lipnik-nad-becvou",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-51-olomouc",
+"cislo": "38.51",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "783 71",
+"mesto": "Olomouc",
+"ulice": "Týnecká 833/39",
+"provozovatel": "STK \"Na Přerovské\" s.r.o.",
+"telefon": "585155472",
+"email": "stk.naprerovske@seznam.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-68-01-dubicko",
+"cislo": "68.01",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "789 72",
+"mesto": "Dubicko",
+"ulice": "Družstevní 5",
+"provozovatel": "K-TRAKTOR s.r.o.",
+"telefon": "583449011",
+"email": "dubicka@dubicka.cz",
+"orp": "Zábřeh",
+"okres": "Šumperk",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "dubicko",
+"okresSlug": "sumperk",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-68-13-olomouc",
+"cislo": "68.13",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "779 00",
+"mesto": "Olomouc",
+"ulice": "Pode Mlýnem 763/11",
+"provozovatel": "Pro - Truck servis Olomouc s.r.o.",
+"telefon": "731140142",
+"email": "jarda.kucera@centrum.cz",
+"orp": "Olomouc",
+"okres": "Olomouc",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "olomouc",
+"okresSlug": "olomouc",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-68-14-hranice",
+"cislo": "68.14",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "753 01",
+"mesto": "Hranice",
+"ulice": "Tovární 605",
+"provozovatel": "ADR Logistik s.r.o.",
+"telefon": "777738599",
+"email": "davidrichter@seznam.cz",
+"orp": "Hranice",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "hranice",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-68-16-drevohostice",
+"cislo": "68.16",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "751 14",
+"mesto": "Dřevohostice",
+"ulice": "Lapač 450",
+"provozovatel": "H&R AGROSLUŽBY s.r.o.",
+"telefon": "739995967",
+"email": "hrsluzby@email.cz",
+"orp": "Přerov",
+"okres": "Přerov",
+"kraj": "Olomoucký kraj",
+"mestoSlug": "drevohostice",
+"okresSlug": "prerov",
+"krajSlug": "olomoucky-kraj"
+},
+{
+"slug": "stk-38-05-frydek-mistek",
+"cislo": "38.05",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "738 02",
+"mesto": "Frýdek-Místek",
+"ulice": "Beskydská 2299",
+"provozovatel": "Autodružstvo STK Frýdek - Místek",
+"telefon": "558 439 355, 558 644 973",
+"email": "adstk.fm@tiscali.cz",
+"orp": "Frýdek-Místek",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "frydek-mistek",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-08-ostrava",
+"cislo": "38.08",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "702 00",
+"mesto": "Ostrava",
+"ulice": "Špálova 11",
+"provozovatel": "STK SAGITA spol. s r.o.",
+"telefon": "596136727",
+"email": "stksagitasro@volny.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-09-bruntal",
+"cislo": "38.09",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "792 01",
+"mesto": "Bruntál",
+"ulice": "Krnovská 16a",
+"provozovatel": "STK START CENTRUM BRUNTÁL s.r.o.",
+"telefon": "723342400",
+"email": "prijem@stkbruntal.cz",
+"orp": "Bruntál",
+"okres": "Bruntál",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "bruntal",
+"okresSlug": "bruntal",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-10-opava",
+"cislo": "38.10",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "747 07",
+"mesto": "Opava",
+"ulice": "Slavkovská 39",
+"provozovatel": "DM BETA s.r.o.",
+"telefon": "553625056",
+"email": "stk3810@centrum.cz",
+"orp": "Opava",
+"okres": "Opava",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "opava",
+"okresSlug": "opava",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-11-karvina",
+"cislo": "38.11",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "735 06",
+"mesto": "Karviná",
+"ulice": "Bohumínská 1876",
+"provozovatel": "TKLAS Karviná s.r.o.",
+"telefon": "596 382 202",
+"email": "tklas@volny.cz",
+"orp": "Karviná",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "karvina",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-14-ostrava",
+"cislo": "38.14",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "702 00",
+"mesto": "Ostrava",
+"ulice": "U Řeky 660",
+"provozovatel": "STK-Tajga, Hrabová, s.r.o.",
+"telefon": "596 734 052, 596 734 053",
+"email": "stk@stk-tajga.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-15-senov-u-noveho-jicina",
+"cislo": "38.15",
+"druhy": [
+"OA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "742 42",
+"mesto": "Šenov u Nového Jičína",
+"ulice": "Palackého 2301/31",
+"provozovatel": "STK RITZ s.r.o.",
+"telefon": "556701228",
+"email": "info@stk-novyjicin.cz",
+"orp": "Nový Jičín",
+"okres": "Nový Jičín",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "senov-u-noveho-jicina",
+"okresSlug": "novy-jicin",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-16-koprivnice",
+"cislo": "38.16",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "742 21",
+"mesto": "Kopřivnice",
+"ulice": "Dělnická 831",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "556802608",
+"email": "koprivnice@testcar.cz",
+"orp": "Kopřivnice",
+"okres": "Nový Jičín",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "koprivnice",
+"okresSlug": "novy-jicin",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-20-horni-sucha",
+"cislo": "38.20",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "735 35",
+"mesto": "Horní Suchá",
+"ulice": "ul. 9. května 66",
+"provozovatel": "AUTO KLUB STONAVA v AČR",
+"telefon": "596 422 561",
+"email": "stk-3820@volny.cz",
+"orp": "Havířov",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "horni-sucha",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-21-rychvald",
+"cislo": "38.21",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "735 32",
+"mesto": "Rychvald",
+"ulice": "Bohumínská 1806",
+"provozovatel": "TEAM-MAAT, spol. s r.o.",
+"telefon": "596 572 214",
+"email": "stk3821@volny.cz",
+"orp": "Bohumín",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "rychvald",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-22-sviadnov",
+"cislo": "38.22",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "739 25",
+"mesto": "Sviadnov",
+"ulice": "Ostravská 264",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "558436315",
+"email": "sviadnov@testcar.cz",
+"orp": "Frýdek-Místek",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "sviadnov",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-23-ostrava",
+"cislo": "38.23",
+"druhy": [
+"NA",
+"TRA",
+"ZS",
+"ADR"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla",
+"vozidla ADR"
+],
+"psc": "702 00",
+"mesto": "Ostrava",
+"ulice": "Vítkovická 3258/9",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "596635264",
+"email": "ostrava@testcar.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-24-trinec",
+"cislo": "38.24",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "739 61",
+"mesto": "Třinec",
+"ulice": "Frýdecká 272",
+"provozovatel": "STK Třinec s.r.o.",
+"telefon": "558996141",
+"email": "stk-trinec@seznam.cz",
+"orp": "Třinec",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "trinec",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-25-hlucin",
+"cislo": "38.25",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "748 01",
+"mesto": "Hlučín",
+"ulice": "Markvartovická 7",
+"provozovatel": "STK-Ostrava s.r.o.",
+"telefon": "595 042 786",
+"email": "hlucin@stk-ostrava.cz",
+"orp": "Hlučín",
+"okres": "Opava",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "hlucin",
+"okresSlug": "opava",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-27-opava",
+"cislo": "38.27",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "746 00",
+"mesto": "Opava",
+"ulice": "Těšínská 2868/37A",
+"provozovatel": "OP KONTROL spol. s r.o.",
+"telefon": "553 609 254, 553 611 394",
+"email": "stk.vavra@tqm.cz",
+"orp": "Opava",
+"okres": "Opava",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "opava",
+"okresSlug": "opava",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-28-frenstat-pod-radhostem",
+"cislo": "38.28",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "744 01",
+"mesto": "Frenštát pod Radhoštěm",
+"ulice": "Martinská čtvrť 1705",
+"provozovatel": "STK FREN s.r.o.",
+"telefon": "556836941",
+"email": "stkfren@seznam.cz",
+"orp": "Frenštát pod Radhoštěm",
+"okres": "Nový Jičín",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "frenstat-pod-radhostem",
+"okresSlug": "novy-jicin",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-29-ostrava",
+"cislo": "38.29",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "722 00",
+"mesto": "Ostrava",
+"ulice": "Servisní 5556/1",
+"provozovatel": "STK - Ostrava s.r.o.",
+"telefon": "596966300",
+"email": "trebovice@stk-ostrava.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-30-krnov",
+"cislo": "38.30",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "794 01",
+"mesto": "Krnov",
+"ulice": "Ve Vrbině 4",
+"provozovatel": "VESTAP - výstavba domů a bytů s.r.o.",
+"telefon": "554611413",
+"email": "stkkrnov@seznam.cz",
+"orp": "Krnov",
+"okres": "Bruntál",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "krnov",
+"okresSlug": "bruntal",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-31-bruntal",
+"cislo": "38.31",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "792 01",
+"mesto": "Bruntál",
+"ulice": "Zahradní 1925/44a",
+"provozovatel": "JV FOODS, spol. s r.o.",
+"telefon": "554 713 008",
+"email": "stk3831@seznam.cz",
+"orp": "Bruntál",
+"okres": "Bruntál",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "bruntal",
+"okresSlug": "bruntal",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-32-karvina",
+"cislo": "38.32",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "734 01",
+"mesto": "Karviná",
+"ulice": "Za Splavem 884",
+"provozovatel": "TKLAS Karviná, s.r.o.",
+"telefon": "596 318 844",
+"email": "tklas@volny.cz",
+"orp": "Karviná",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "karvina",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-33-petrvald",
+"cislo": "38.33",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "735 41",
+"mesto": "Petřvald",
+"ulice": "Ostravská 1833",
+"provozovatel": "Jaroslav Janči, s.r.o.",
+"telefon": "596530300",
+"email": "info@stk-petrvald.cz",
+"orp": "Orlová",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "petrvald",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-34-ostrava",
+"cislo": "38.34",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "720 00",
+"mesto": "Ostrava",
+"ulice": "Krmelínská 13",
+"provozovatel": "STK - Ostrava s.r.o.",
+"telefon": "596 728 500",
+"email": "hrabova@stk-ostrava.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-37-velke-albrechtice",
+"cislo": "38.37",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "742 91",
+"mesto": "Velké Albrechtice",
+"ulice": "Ostravská 309",
+"provozovatel": "STK Roman Kučera s.r.o.",
+"telefon": "558272444",
+"email": "info@stk-bilovec.cz",
+"orp": "Bílovec",
+"okres": "Nový Jičín",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "velke-albrechtice",
+"okresSlug": "novy-jicin",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-38-senov",
+"cislo": "38.38",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "739 34",
+"mesto": "Šenov",
+"ulice": "Pod Šodkem 1618",
+"provozovatel": "AUTO SKOPEK, s.r.o.",
+"telefon": "596 891 192",
+"email": "autoskopek2004@volny.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "senov",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-40-stepankovice",
+"cislo": "38.40",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "747 28",
+"mesto": "Štěpánkovice",
+"ulice": "Slezská 643",
+"provozovatel": "HARASIM s.r.o.",
+"telefon": "553675228",
+"email": "mharasim@stepankovice.cz",
+"orp": "Kravaře",
+"okres": "Opava",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "stepankovice",
+"okresSlug": "opava",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-41-navsi",
+"cislo": "38.41",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "739 92",
+"mesto": "Návsí",
+"ulice": "Návsí 976",
+"provozovatel": "S. B. J. Motocentrum spol. s r.o.",
+"telefon": "558 340 985",
+"email": "stk.navsi@atlas.cz",
+"orp": "Jablunkov",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "navsi",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-42-ostrava",
+"cislo": "38.42",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "709 00",
+"mesto": "Ostrava",
+"ulice": "Oběžná 2086/13",
+"provozovatel": "TEAM MAAT spol. s r.o.",
+"telefon": "596118487",
+"email": "stk@stkok.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-48-koprivnice",
+"cislo": "38.48",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "742 21",
+"mesto": "Kopřivnice",
+"ulice": "Štefánikova 221/20",
+"provozovatel": "STK KOPR s.r.o.",
+"telefon": "556821690",
+"email": "stk5@seznam.cz",
+"orp": "Kopřivnice",
+"okres": "Nový Jičín",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "koprivnice",
+"okresSlug": "novy-jicin",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-49-frydek-mistek",
+"cislo": "38.49",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "738 02",
+"mesto": "Frýdek-Místek",
+"ulice": "17. listopadu 2269",
+"provozovatel": "MPS KONTROL s.r.o.",
+"telefon": "558431243",
+"email": "info@stk-frydekmistek.cz",
+"orp": "Frýdek-Místek",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "frydek-mistek",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-50-havirov",
+"cislo": "38.50",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "736 01",
+"mesto": "Havířov",
+"ulice": "Železničářů 1529/1c",
+"provozovatel": "KTS servis s.r.o.",
+"telefon": "596314448",
+"email": "stk.havirov@seznam.cz",
+"orp": "Havířov",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "havirov",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-52-bruntal",
+"cislo": "38.52",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "792 01",
+"mesto": "Bruntál",
+"ulice": "Ruská 10",
+"provozovatel": "Zdeněk Mlynarčík",
+"telefon": "554212024",
+"email": "stkbruntal.ruska10@email.cz",
+"orp": "Bruntál",
+"okres": "Bruntál",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "bruntal",
+"okresSlug": "bruntal",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-53-karvina-nove-mesto",
+"cislo": "38.53",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "735 06",
+"mesto": "Karviná Nové Město",
+"ulice": "Svatopluka Čecha 733/32o",
+"provozovatel": "Servis vozidel, STK s.r.o.",
+"telefon": "734750200",
+"email": "stkemise@post.cz",
+"orp": "Karviná",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "karvina-nove-mesto",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-54-cesky-tesin",
+"cislo": "38.54",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "737 01",
+"mesto": "Český Těšín",
+"ulice": "Frýdlanská 1978",
+"provozovatel": "KTS servis s.r.o.",
+"telefon": "734755200",
+"email": "stkceskytesin@seznam.cz",
+"orp": "Karviná",
+"okres": "Karviná",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "cesky-tesin",
+"okresSlug": "karvina",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-55-ostrava-radvanice",
+"cislo": "38.55",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "716 00",
+"mesto": "Ostrava - Radvanice",
+"ulice": "Linkova 1407/12",
+"provozovatel": "STK JERZAN, s.r.o.",
+"telefon": "777337444",
+"email": "stk3855@seznam.cz",
+"orp": "Ostrava",
+"okres": "Ostrava-město",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "ostrava-radvanice",
+"okresSlug": "ostrava-mesto",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-38-56-staric",
+"cislo": "38.56",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "739 43",
+"mesto": "Staříč",
+"ulice": "p.č. 2086/2",
+"provozovatel": "LR Auto s.r.o.",
+"telefon": "733491337",
+"email": "stk-staric@seznam.cz",
+"orp": "Frýdek-Místek",
+"okres": "Frýdek-Místek",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "staric",
+"okresSlug": "frydek-mistek",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-68-15-hlucin-darkovicky",
+"cislo": "68.15",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "748 01",
+"mesto": "Hlučín-Darkovičky",
+"ulice": "Jandova 39/68",
+"provozovatel": "Bc. Jan Fojtík",
+"telefon": "731154219",
+"email": "honza.fojtik@centrum.cz",
+"orp": "Hlučín",
+"okres": "Opava",
+"kraj": "Moravskoslezský kraj",
+"mestoSlug": "hlucin-darkovicky",
+"okresSlug": "opava",
+"krajSlug": "moravskoslezsky-kraj"
+},
+{
+"slug": "stk-37-03-brezolupy",
+"cislo": "37.03",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "687 13",
+"mesto": "Březolupy",
+"ulice": "Březolupy 475",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "572580118",
+"email": "stk-brezolupy@dekra.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "brezolupy",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-12-kromeriz",
+"cislo": "37.12",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "767 01",
+"mesto": "Kroměříž",
+"ulice": "Bílanská 2595",
+"provozovatel": "CSAO, spol. s r.o.",
+"telefon": "573 340 824",
+"email": "csao-stk@quick.cz",
+"orp": "Kroměříž",
+"okres": "Kroměříž",
+"kraj": "Zlínský kraj",
+"mestoSlug": "kromeriz",
+"okresSlug": "kromeriz",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-13-zlin-malenovice",
+"cislo": "37.13",
+"druhy": [
+"OA",
+"NA",
+"TRA",
+"ADR",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"nákladní automobily",
+"traktory",
+"vozidla ADR",
+"zvláštní vozidla"
+],
+"psc": "763 02",
+"mesto": "Zlín-Malenovice",
+"ulice": "třída 3. května 1147",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "577 105 353, 577 106 927",
+"email": "stkzlin@tiscali.cz",
+"orp": "Zlín",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "zlin-malenovice",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-19-stare-mesto",
+"cislo": "37.19",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "686 03",
+"mesto": "Staré Město",
+"ulice": "Luční čtvrť 1824",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "572 541 573",
+"email": "stk.uh@worldonline.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "stare-mesto",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-27-uhersky-brod",
+"cislo": "37.27",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "688 01",
+"mesto": "Uherský Brod",
+"ulice": "U Korečnice 2834",
+"provozovatel": "STK ARAVER, s.r.o.",
+"telefon": "572675180",
+"email": "stk.vlc@tiscali.cz",
+"orp": "Uherský Brod",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "uhersky-brod",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-29-kromeriz",
+"cislo": "37.29",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "767 01",
+"mesto": "Kroměříž",
+"ulice": "Hulínská 2383",
+"provozovatel": "KM AUTEXIM, spol. s r.o.",
+"telefon": "573 326 280, 573 326 281",
+"email": "stk@kromexim.cz",
+"orp": "Kroměříž",
+"okres": "Kroměříž",
+"kraj": "Zlínský kraj",
+"mestoSlug": "kromeriz",
+"okresSlug": "kromeriz",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-32-valasske-klobouky",
+"cislo": "37.32",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "766 01",
+"mesto": "Valašské Klobouky",
+"ulice": "Brumovská 279",
+"provozovatel": "ORSÁK TK s.r.o.",
+"telefon": "577320330",
+"email": "atos-stk3732@volny.cz",
+"orp": "Valašské Klobouky",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "valasske-klobouky",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-38-valasske-klobouky",
+"cislo": "37.38",
+"druhy": [
+"NA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "766 01",
+"mesto": "Valašské Klobouky",
+"ulice": "Brumovská 456",
+"provozovatel": "Střední odborné učiliště Valašské Klobouky",
+"telefon": "577 320 186",
+"email": "stk@souvk.cz",
+"orp": "Valašské Klobouky",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "valasske-klobouky",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-39-kromeriz",
+"cislo": "37.39",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "767 01",
+"mesto": "Kroměříž",
+"ulice": "Hulínská 3221",
+"provozovatel": "Dapas, a.s.",
+"telefon": "573 345 055",
+"email": "stk.dapas@seznam.cz",
+"orp": "Kroměříž",
+"okres": "Kroměříž",
+"kraj": "Zlínský kraj",
+"mestoSlug": "kromeriz",
+"okresSlug": "kromeriz",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-43-holesov",
+"cislo": "37.43",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "769 01",
+"mesto": "Holešov",
+"ulice": "Palackého 464",
+"provozovatel": "TEST-CAR Holešov spol. s.r.o.",
+"telefon": "573394642",
+"email": "miroslavbelli@tiscali.cz",
+"orp": "Holešov",
+"okres": "Kroměříž",
+"kraj": "Zlínský kraj",
+"mestoSlug": "holesov",
+"okresSlug": "kromeriz",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-44-kunovice",
+"cislo": "37.44",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "686 04",
+"mesto": "Kunovice",
+"ulice": "Náměstí Svobody 578",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "572548548",
+"email": "stkkunovice@stkkunovice.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "kunovice",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-45-roznov-pod-radhostem",
+"cislo": "37.45",
+"druhy": [
+"OA",
+"TRA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"traktory",
+"zvláštní vozidla"
+],
+"psc": "756 61",
+"mesto": "Rožnov pod Radhoštěm",
+"ulice": "Tvarůžkova 2491",
+"provozovatel": "STK Rožnov, s.r.o.",
+"telefon": "571613421",
+"email": "stkroznov@stkroznov.cz",
+"orp": "Rožnov pod Radhoštěm",
+"okres": "Vsetín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "roznov-pod-radhostem",
+"okresSlug": "vsetin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-67-otrokovice",
+"cislo": "37.67",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "765 02",
+"mesto": "Otrokovice",
+"ulice": "Letiště 1894",
+"provozovatel": "DEKRA CZ a.s.",
+"telefon": "577106006",
+"email": "stk.otrokovice@seznam.cz",
+"orp": "Otrokovice",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "otrokovice",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-68-vizovice",
+"cislo": "37.68",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "763 12",
+"mesto": "Vizovice",
+"ulice": "Zlínská ulice 1160",
+"provozovatel": "STK CENTRUM VIZOVICE, s.r.o.",
+"telefon": "577018639",
+"email": "info@stk.vizovice",
+"orp": "Vizovice",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "vizovice",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-37-71-uherske-hradiste",
+"cislo": "37.71",
+"druhy": [
+"OA"
+],
+"druhyTxt": [
+"osobní automobily"
+],
+"psc": "686 05",
+"mesto": "Uherské Hradiště",
+"ulice": "Sokolovská 1792",
+"provozovatel": "STK Uherské Hradiště s.r.o.",
+"telefon": "608147151",
+"email": "info@stkuh.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "uherske-hradiste",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-38-17-valasske-mezirici",
+"cislo": "38.17",
+"druhy": [
+"NA",
+"TRA"
+],
+"druhyTxt": [
+"nákladní automobily",
+"traktory"
+],
+"psc": "757 01",
+"mesto": "Valašské Meziříčí",
+"ulice": "Palackého 220",
+"provozovatel": "TESTCAR s.r.o.",
+"telefon": "571621251",
+"email": "valmez@testcar.cz",
+"orp": "Valašské Meziříčí",
+"okres": "Vsetín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "valasske-mezirici",
+"okresSlug": "vsetin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-38-19-vsetin",
+"cislo": "38.19",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "755 01",
+"mesto": "Vsetín",
+"ulice": "Bobrky 2270",
+"provozovatel": "CAR OK STK s.r.o.",
+"telefon": "571411024",
+"email": "carok.stk@tiscali.cz",
+"orp": "Vsetín",
+"okres": "Vsetín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "vsetin",
+"okresSlug": "vsetin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-38-45-policna",
+"cislo": "38.45",
+"druhy": [
+"OA",
+"ZS"
+],
+"druhyTxt": [
+"osobní automobily",
+"zvláštní vozidla"
+],
+"psc": "757 01",
+"mesto": "Poličná",
+"ulice": "Poličná 508",
+"provozovatel": "AMG CENTRUM, s.r.o.",
+"telefon": "571611122",
+"email": "stkvm@seznam.cz",
+"orp": "Valašské Meziříčí",
+"okres": "Vsetín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "policna",
+"okresSlug": "vsetin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-67-01-lukov",
+"cislo": "67.01",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "763 17",
+"mesto": "Lukov",
+"ulice": "Areál OZD Podhoran č.309",
+"provozovatel": "PODHORAN LUKOV a.s.",
+"telefon": "577116130",
+"email": "podhoran@cmail.cz",
+"orp": "Zlín",
+"okres": "Zlín",
+"kraj": "Zlínský kraj",
+"mestoSlug": "lukov",
+"okresSlug": "zlin",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-67-38-ostrozska-lhota",
+"cislo": "67.38",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "687 23",
+"mesto": "Ostrožská lhota",
+"ulice": "Ostrožská Lhota 413",
+"provozovatel": "Ing. Karel Maňas",
+"telefon": "724059122",
+"email": "karelmanas@centrum.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "ostrozska-lhota",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+},
+{
+"slug": "stk-67-42-babice",
+"cislo": "67.42",
+"druhy": [
+"TRA"
+],
+"druhyTxt": [
+"traktory"
+],
+"psc": "687 03",
+"mesto": "Babice",
+"ulice": "Babice 52",
+"provozovatel": "Agrotest Morava s.r.o.",
+"telefon": "733341343",
+"email": "agrotestmorava@seznam.cz",
+"orp": "Uherské Hradiště",
+"okres": "Uherské Hradiště",
+"kraj": "Zlínský kraj",
+"mestoSlug": "babice",
+"okresSlug": "uherske-hradiste",
+"krajSlug": "zlinsky-kraj"
+}
+]

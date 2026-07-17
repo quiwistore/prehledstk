@@ -1,0 +1,47 @@
+---
+import Base from '../layouts/Base.astro';
+import stanice from '../data/stanice.json';
+import { radce } from '../data/radce.js';
+const kraje = {};
+for (const s of stanice) (kraje[s.krajSlug] ||= { slug: s.krajSlug, kraj: s.kraj, n: 0 }).n++;
+const mestaTop = {};
+for (const s of stanice) (mestaTop[s.mestoSlug] ||= { slug: s.mestoSlug, mesto: s.mesto.startsWith('Praha') ? 'Praha' : s.mesto, n: 0 }).n++;
+const top = Object.values(mestaTop).sort((a, b) => b.n - a.n).slice(0, 12);
+const title = `Přehled STK: všech ${stanice.length} stanic technické kontroly + platnost a ceny`;
+const desc = `Všech ${stanice.length} stanic technické kontroly v ČR s telefonem a adresou z oficiálních dat Ministerstva dopravy. Plus ověření platnosti STK zdarma, ceny 2026 a lhůty.`;
+---
+<Base title={title} desc={desc}>
+<section class="hero">
+  <div class="wrap">
+    <h1>Všechny stanice STK v Česku — s telefonem, adresou a jasnými pravidly</h1>
+    <p>{stanice.length} autorizovaných stanic technické kontroly z oficiálního seznamu Ministerstva dopravy. K tomu srozumitelný rádce: do kdy vám platí STK, kolik zaplatíte a co vzít s sebou.</p>
+    <div class="botonera">
+      <a class="btn" href="/stanice/"><i class="fa-solid fa-magnifying-glass"></i> Najít stanici</a>
+      <a class="btn sec" href="/platnost-stk/"><i class="fa-solid fa-calendar-check"></i> Platnost STK</a>
+      <a class="btn sec" href="/cena-stk/"><i class="fa-solid fa-money-bill"></i> Ceny 2026</a>
+    </div>
+  </div>
+</section>
+<main class="wrap">
+  <h2>To hlavní o STK v roce 2026</h2>
+  <div class="grid">
+    <a class="tarjeta" href="/platnost-stk/" style="display:block"><h3><i class="fa-solid fa-calendar-check"></i>Platnost STK online</h3><p class="meta">Zdarma podle VIN na oficiálním webu MD — a proč neplatí „do konce měsíce".</p></a>
+    <a class="tarjeta" href="/cena-stk/" style="display:block"><h3><i class="fa-solid fa-money-bill"></i>Cena: 1 300–2 700 Kč</h3><p class="meta">Orientační ceny s emisemi a proč se stanice liší.</p></a>
+    <a class="tarjeta" href="/lhuty-stk/" style="display:block"><h3><i class="fa-solid fa-clock"></i>Lhůty: auto 4+2</h3><p class="meta">Motorka 6+4 po novele, přívěsy, náklaďáky — celá tabulka.</p></a>
+    <a class="tarjeta" href="/jizda-bez-stk/" style="display:block"><h3><i class="fa-solid fa-triangle-exclamation"></i>Propadlá STK</h3><p class="meta">Pokuta do 2 500 Kč na místě — a kdy hrozí víc.</p></a>
+  </div>
+
+  <h2>Stanice podle měst <a href="/stanice/" style="font-size:.85rem;font-weight:600;margin-left:8px">Všechna města →</a></h2>
+  <div class="grid">
+    {top.map(m => <a class="tarjeta" href={`/stk/${m.slug}/`} style="display:block"><h3><i class="fa-solid fa-city"></i>STK {m.mesto}</h3><p class="meta">{m.n} {m.n === 1 ? 'stanice' : m.n < 5 ? 'stanice' : 'stanic'}</p></a>)}
+  </div>
+
+  <h2>Podle krajů</h2>
+  <div class="grid">
+    {Object.values(kraje).sort((a,b) => a.kraj.localeCompare(b.kraj, 'cs')).map(kk => <a class="tarjeta" href={`/kraj/${kk.slug}/`} style="display:block"><h3><i class="fa-solid fa-map"></i>{kk.kraj}</h3><p class="meta">{kk.n} stanic</p></a>)}
+  </div>
+
+  <h2>Jak tento web funguje</h2>
+  <p>Sbíráme na jedno místo to, co je jinak roztroušené: <strong>oficiální seznam stanic</strong> Ministerstva dopravy (včetně přímých telefonů a e-mailů), pravidla ze <strong>zákona č. 56/2001 Sb.</strong> a praktické odpovědi na otázky, které řidiči skutečně řeší. <strong>Nejsme státní orgán</strong> a nezprostředkováváme objednání — ukazujeme vám ověřenou cestu, kterou dojdete k cíli sami a zdarma.</p>
+</main>
+</Base>
