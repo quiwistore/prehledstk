@@ -9,6 +9,10 @@ const { s } = Astro.props;
 const adresa = `${s.ulice}, ${s.psc} ${s.mesto}`;
 const mapaQ = encodeURIComponent(`${s.provozovatel}, ${adresa}, Česko`);
 const sousede = stanice.filter(x => x.okresSlug === s.okresSlug && x.slug !== s.slug).slice(0, 6);
+const enMesto = stanice.filter(x => x.mestoSlug === s.mestoSlug).length;
+const btnLugar = enMesto > 1
+  ? { href: `/stk/${s.mestoSlug}/`, txt: `Další STK — ${s.mesto.startsWith('Praha') ? 'Praha' : s.mesto}` }
+  : { href: `/okres/${s.okresSlug}/`, txt: `Další STK — okres ${s.okres}` };
 const druhyLabel = s.druhyTxt.join(', ');
 const uvod = [
   `Stanice technické kontroly č. ${s.cislo} ve městě ${s.mesto}, provozovaná společností ${s.provozovatel}. Níže najdete telefon, adresu, mapu a typy vozidel, které stanice kontroluje.`,
@@ -48,9 +52,9 @@ const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemLis
   <p style="margin:8px 0 0;font-weight:600"><i class="fa-solid fa-building" style="color:var(--verde2)"></i> {s.provozovatel}</p>
   <p style="margin-top:12px">{uvod}</p>
   <div class="botonera" style="margin:14px 0 6px">
-    {s.telefon && <a class="btn" style="font-size:.88rem;padding:9px 16px" href={`tel:${s.telefon.split(',')[0].replace(/\s/g, '')}`}><i class="fa-solid fa-phone"></i> Zavolat</a>}
-    {s.email && <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--verde2);color:#fff" href={`mailto:${s.email}`}><i class="fa-solid fa-envelope"></i> E-mail</a>}
-    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--gris);color:var(--verde);border:1px solid var(--borde)" href="#mapa"><i class="fa-solid fa-map"></i> Mapa</a>
+    <a class="btn" style="font-size:.88rem;padding:9px 16px" href={btnLugar.href}><i class="fa-solid fa-city"></i> {btnLugar.txt}</a>
+    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--verde2);color:#fff" href="/cena-stk/"><i class="fa-solid fa-money-bill"></i> Kolik stojí STK</a>
+    <a class="btn" style="font-size:.88rem;padding:9px 16px;background:var(--gris);color:var(--verde);border:1px solid var(--borde)" href="/co-vzit-na-stk/"><i class="fa-solid fa-list-check"></i> Co vzít s sebou</a>
   </div>
 
   <div class="layout">
@@ -58,8 +62,8 @@ const migas = {"@context":"https://schema.org","@type":"BreadcrumbList","itemLis
   <div class="caja verificado">
     <p style="margin:0"><span class="badge tipo">č. {s.cislo}</span> {s.druhyTxt.map(d => <span class="badge tipo" style="margin-left:6px">{d}</span>)}</p>
     <p style="margin:10px 0 0"><i class="fa-solid fa-location-dot"></i> <strong>Adresa:</strong> {adresa}</p>
-    {s.telefon && <p style="margin:8px 0 0"><i class="fa-solid fa-phone"></i> <strong>Telefon:</strong> {s.telefon}</p>}
-    {s.email && <p style="margin:8px 0 0"><i class="fa-solid fa-envelope"></i> <strong>E-mail:</strong> {s.email}</p>}
+    {s.telefon && <p style="margin:8px 0 0"><i class="fa-solid fa-phone"></i> <strong>Telefon:</strong> <a href={`tel:${s.telefon.split(',')[0].replace(/\s/g, '')}`}>{s.telefon}</a></p>}
+    {s.email && <p style="margin:8px 0 0"><i class="fa-solid fa-envelope"></i> <strong>E-mail:</strong> <a href={`mailto:${s.email}`}>{s.email}</a></p>}
     <p style="margin:8px 0 0;font-size:.87rem;color:#7a8a83">Zdroj: oficiální seznam STK Ministerstva dopravy ČR. Otevírací dobu si ověřte telefonicky.</p>
   </div>
 
