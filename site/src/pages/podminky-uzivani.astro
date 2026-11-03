@@ -1,0 +1,12 @@
+---
+// generado por herramientas-investigacion/legales
+import L from '../data/legal.json';
+import LS from '../data/contacto.json';
+import Base from '../layouts/Base.astro';
+---
+<Base title="Podmínky užívání | Přehled STK" desc="Podmínky užívání webu Přehled STK, nezávislého a neoficiálního webu.">
+<main class="wrap">
+  <h1 style="color:var(--verde);font-size:1.7rem">Podmínky užívání</h1>
+<Fragment set:html={L['terms'].html.replaceAll('{{EMAIL}}', LS.email)} />
+</main>
+</Base>

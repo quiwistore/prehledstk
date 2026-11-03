@@ -2,7 +2,7 @@ import stanice from '../data/stanice.json';
 import { radce } from '../data/radce.js';
 const BASE = 'https://prehledstk.com';
 export function GET() {
-  const rutas = ['/', '/stanice/', '/radce/', '/o-webu/', '/kontakt/', '/ochrana-soukromi/'];
+  const rutas = ['/', '/stanice/', '/radce/', '/o-webu/', '/kontakt/', '/ochrana-soukromi/', '/podminky-uzivani/', '/cookies/'];
   for (const g of radce) rutas.push(`/${g.slug}/`);
   const set = { mesto: new Set(), okres: new Set(), kraj: new Set() };
   for (const s of stanice) {
